@@ -8,6 +8,14 @@ authors:
     orcid: "https://orcid.org/0009-0008-6954-1784"
     affiliation: "Instituto Tecnológico de Aeronáutica (ITA)"
 version: 1.0.0
+doi: "10.5281/zenodo.24069366"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24069365"
+    description: "DOI de todas as versões (concept DOI)"
+  - type: doi
+    value: "10.5281/zenodo.24069366"
+    description: "DOI da versão 1.0.0"
 date-released: 2026-11-09
 license: MIT
 repository-code: "https://github.com/murilomn58/eeg-tdah-confundidores"

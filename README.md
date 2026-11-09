@@ -1,5 +1,7 @@
 # eeg-tdah-confundidores
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24069366.svg)](https://doi.org/10.5281/zenodo.24069366)
+
 Este código mede, para cada característica de EEG usada na busca de marcadores do TDAH (expoente e offset aperiódicos, potência e frequência do pico alfa, razão teta/beta e uma distância no espaço tangente da covariância), quanto ela depende de fatores alheios ao diagnóstico: idade, sexo, duração do registro, músculo, olho, potência total e escolhas de processamento. O resultado é um **tabuleiro de variáveis** por banco e um **escore de cuidado** por característica. Ele reproduz o artigo em três bancos públicos e pode ser aplicado a qualquer conjunto de registros com os 19 canais do sistema 10-20.
 
 ## Instalação
@@ -90,7 +92,7 @@ A validação do código contra os resultados do artigo está resumida em [`docs
 
 ## Como citar
 
-Use os metadados de [`CITATION.cff`](CITATION.cff). DOI: a definir.
+Use os metadados de [`CITATION.cff`](CITATION.cff) ou cite: Narciso, M. M. (2026). *eeg-tdah-confundidores* (versão 1.0.0) [software]. Zenodo. https://doi.org/10.5281/zenodo.24069366. Para citar todas as versões, use o DOI https://doi.org/10.5281/zenodo.24069365.
 
 ## Licença
 
