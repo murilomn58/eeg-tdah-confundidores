@@ -1,0 +1,22 @@
+{
+ "hbn_OF": {
+  "n_tdah": 1353,
+  "n_ctrl": 179
+ },
+ "hbn_OA": {
+  "n_tdah": 1353,
+  "n_ctrl": 179
+ },
+ "tdbrain_OF": {
+  "n_tdah": 95,
+  "n_ctrl": 175
+ },
+ "tdbrain_OA": {
+  "n_tdah": 95,
+  "n_ctrl": 175
+ },
+ "adhdata_tarefa": {
+  "n_tdah": 61,
+  "n_ctrl": 60
+ }
+}

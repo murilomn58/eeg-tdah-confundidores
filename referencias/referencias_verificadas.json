@@ -1,0 +1,1172 @@
+{
+  "berger1929": {
+    "abnt": "BERGER, H. Über das Elektrenkephalogramm des Menschen. **Archiv für Psychiatrie und Nervenkrankheiten**, v. 87, n. 1, p. 527–570, 1929. DOI: 10.1007/BF01797193.",
+    "doi": "10.1007/BF01797193",
+    "url": "https://doi.org/10.1007/BF01797193",
+    "ano": 1929,
+    "autores_curto": "Berger",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Pendência antiga resolvida: o DOI 10.1007/BF01797193 resolve no Crossref para Berger, H., 'Über das Elektrenkephalogramm des Menschen', Arch. Psychiatr. Nervenkr. 87(1):527–570, dez. 1929 (Springer). Atualizar referencias_status.json da v2, que ainda marca 'nao_conferida'."
+  },
+  "caton1875": {
+    "abnt": "CATON, R. The electric currents of the brain. **British Medical Journal**, v. 2, p. 278, 1875.",
+    "doi": null,
+    "url": "https://historyofmedicine.com/id/2077",
+    "ano": 1875,
+    "autores_curto": "Caton",
+    "verificada": true,
+    "fonte_verificacao": "Bibliografia Garrison-Morton (historyofmedicine.com/id/2077)",
+    "nota": "Sem DOI encontrado (Crossref e Europe PMC sem registro do texto de 1875; há reimpressão em Am. J. EEG Technol. 10(1):12–14, 1970, DOI 10.1080/00029238.1970.11080764, que NÃO é a original). Garrison-Morton: 'Brit. med. J., 2, 278. 1875'. É o resumo de comunicação no encontro anual da BMA; número do fascículo não confirmado, por isso omitido. Algumas fontes grafam 'electrical currents'."
+  },
+  "jasper1958": {
+    "abnt": "JASPER, H. H. Report of the committee on methods of clinical examination in electroencephalography: 1957. Appendix: the ten-twenty electrode system of the International Federation. **Electroencephalography and Clinical Neurophysiology**, v. 10, n. 2, p. 370–375, 1958. DOI: 10.1016/0013-4694(58)90053-1.",
+    "doi": "10.1016/0013-4694(58)90053-1",
+    "url": "https://doi.org/10.1016/0013-4694(58)90053-1",
+    "ano": 1958,
+    "autores_curto": "Jasper",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "O Crossref registra o DOI como 'Report of the committee on methods of clinical examination in electroencephalography', EEG Clin Neurophysiol 10(2):370–375, maio 1958, SEM campo de autor; a autoria de Jasper e o título 'The ten-twenty electrode system of the International Federation' (apêndice, p. 371–375 na citação usual) vêm da convenção de citação (Wikipedia e listas de referências). Se a revista preferir a forma curta: JASPER, H. H. The ten-twenty electrode system of the International Federation. **Electroencephalography and Clinical Neurophysiology**, v. 10, n. 2, p. 371–375, 1958."
+  },
+  "adrian1934": {
+    "abnt": "ADRIAN, E. D.; MATTHEWS, B. H. C. The Berger rhythm: potential changes from the occipital lobes in man. **Brain**, v. 57, n. 4, p. 355–385, 1934. DOI: 10.1093/brain/57.4.355.",
+    "doi": "10.1093/brain/57.4.355",
+    "url": "https://doi.org/10.1093/brain/57.4.355",
+    "ano": 1934,
+    "autores_curto": "Adrian e Matthews",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Metadados conferidos no Crossref (Oxford University Press)."
+  },
+  "elzghir2024": {
+    "abnt": "EL ZGHIR, R. K.; GABAY, N. C.; ROBINSON, P. A. Unified theory of alpha, mu, and tau rhythms via eigenmodes of brain activity. **Frontiers in Computational Neuroscience**, v. 18, art. 1335130, 2024. DOI: 10.3389/fncom.2024.1335130.",
+    "doi": "10.3389/fncom.2024.1335130",
+    "url": "https://doi.org/10.3389/fncom.2024.1335130",
+    "ano": 2024,
+    "autores_curto": "El Zghir, Gabay e Robinson",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PDF local (espectro_eeg_analise_unificacao_alfa.pdf)",
+    "nota": "Publicado em 26/08/2024."
+  },
+  "cook2022nfm": {
+    "abnt": "COOK, B. J. et al. Neural field models: a mathematical overview and unifying framework. **Mathematical Neuroscience and Applications**, v. 2, art. 2, p. 1–67, 2022. DOI: 10.46298/mna.7284.",
+    "doi": "10.46298/mna.7284",
+    "url": "https://doi.org/10.46298/mna.7284",
+    "ano": 2022,
+    "autores_curto": "Cook et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PDF local (Neural Field Models A mathematical overview and.pdf)",
+    "nota": "Autores confirmados: Blake J. Cook, Andre D. H. Peterson, Wessel Woldman, John R. Terry (ordem do Crossref). Cabeçalho do PDF: 'Math. Neuro. and Appl. 2 (2022), article no. 2, 1–67'. Publicado em 19/03/2022."
+  },
+  "donoghue2025review": {
+    "abnt": "DONOGHUE, T. A systematic review of aperiodic neural activity in clinical investigations. **European Journal of Neuroscience**, v. 62, n. 7, art. e70255, 2025. DOI: 10.1111/ejn.70255.",
+    "doi": "10.1111/ejn.70255",
+    "url": "https://doi.org/10.1111/ejn.70255",
+    "ano": 2025,
+    "autores_curto": "Donoghue",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PDF local (Eur J of Neuroscience - 2025 - Donoghue ...pdf)",
+    "nota": "AUTOR ÚNICO: Thomas Donoghue (não 'et al.'); citar como 'Donoghue (2025)'. Resumo do PDF confirma PRISMA, 177 relatos e 38 transtornos. Online em 11/10/2025. Existe preprint medRxiv anterior (10.1101/2024.10.14.24314925); citar a versão publicada."
+  },
+  "tran2026": {
+    "abnt": "TRAN, K.-D. Aperiodic EEG exponent as a cortical excitation-inhibition index in ALS brain-computer interface users. **Research Square**, 2026. Preprint, versão 2. DOI: 10.21203/rs.3.rs-9903869/v2. Disponível em: https://doi.org/10.21203/rs.3.rs-9903869/v2. Acesso em: 8 nov. 2026.",
+    "doi": "10.21203/rs.3.rs-9903869/v2",
+    "url": "https://doi.org/10.21203/rs.3.rs-9903869/v2",
+    "ano": 2026,
+    "autores_curto": "Tran",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PDF local (Aperiodic EEG exponent.pdf)",
+    "nota": "Preprint (Research Square), não revisado por pares; autor único Khanh-Dung Tran (Rayo Lab, Singapura). O PDF local é a v2 (postada em 10/06/2026); a v1 é 10.21203/rs.3.rs-9903869/v1 (04/06/2026)."
+  },
+  "duffy2017": {
+    "abnt": "DUFFY, F. H. et al. A unique pattern of cortical connectivity characterizes patients with attention deficit disorders: a large electroencephalographic coherence study. **BMC Medicine**, v. 15, n. 1, art. 51, 2017. DOI: 10.1186/s12916-017-0805-9.",
+    "doi": "10.1186/s12916-017-0805-9",
+    "url": "https://doi.org/10.1186/s12916-017-0805-9",
+    "ano": 2017,
+    "autores_curto": "Duffy et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PDF local (feature espacial coherence adhd.pdf)",
+    "nota": "4 autores (Duffy, Shankardass, McAnulty, Als): pela regra, 'et al.'."
+  },
+  "lopeznaranjo2024": {
+    "abnt": "LOPEZ NARANJO, C. et al. EEG functional connectivity as a Riemannian mediator: an application to malnutrition and cognition. **Human Brain Mapping**, v. 45, n. 7, art. e26698, 2024. DOI: 10.1002/hbm.26698.",
+    "doi": "10.1002/hbm.26698",
+    "url": "https://doi.org/10.1002/hbm.26698",
+    "ano": 2024,
+    "autores_curto": "Lopez Naranjo et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PDF local",
+    "nota": "17 autores."
+  },
+  "donoghue2020fooof": {
+    "abnt": "DONOGHUE, T. et al. Parameterizing neural power spectra into periodic and aperiodic components. **Nature Neuroscience**, v. 23, n. 12, p. 1655–1665, 2020. DOI: 10.1038/s41593-020-00744-x.",
+    "doi": "10.1038/s41593-020-00744-x",
+    "url": "https://doi.org/10.1038/s41593-020-00744-x",
+    "ano": 2020,
+    "autores_curto": "Donoghue et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "12 autores. Este artigo não trata da razão teta/beta; para isso usar donoghue2020eneuro (ver status da v2)."
+  },
+  "donoghue2020eneuro": {
+    "abnt": "DONOGHUE, T.; DOMINGUEZ, J.; VOYTEK, B. Electrophysiological frequency band ratio measures conflate periodic and aperiodic neural activity. **eNeuro**, v. 7, n. 6, ENEURO.0192-20.2020, 2020. DOI: 10.1523/ENEURO.0192-20.2020.",
+    "doi": "10.1523/ENEURO.0192-20.2020",
+    "url": "https://doi.org/10.1523/ENEURO.0192-20.2020",
+    "ano": 2020,
+    "autores_curto": "Donoghue, Dominguez e Voytek",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": ""
+  },
+  "gao2017": {
+    "abnt": "GAO, R.; PETERSON, E. J.; VOYTEK, B. Inferring synaptic excitation/inhibition balance from field potentials. **NeuroImage**, v. 158, p. 70–78, 2017. DOI: 10.1016/j.neuroimage.2017.06.078.",
+    "doi": "10.1016/j.neuroimage.2017.06.078",
+    "url": "https://doi.org/10.1016/j.neuroimage.2017.06.078",
+    "ano": 2017,
+    "autores_curto": "Gao, Peterson e Voytek",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": ""
+  },
+  "voytek2015": {
+    "abnt": "VOYTEK, B. et al. Age-related changes in 1/f neural electrophysiological noise. **The Journal of Neuroscience**, v. 35, n. 38, p. 13257–13265, 2015. DOI: 10.1523/JNEUROSCI.2332-14.2015.",
+    "doi": "10.1523/JNEUROSCI.2332-14.2015",
+    "url": "https://doi.org/10.1523/JNEUROSCI.2332-14.2015",
+    "ano": 2015,
+    "autores_curto": "Voytek et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "7 autores."
+  },
+  "gerster2022": {
+    "abnt": "GERSTER, M. et al. Separating neural oscillations from aperiodic 1/f activity: challenges and recommendations. **Neuroinformatics**, v. 20, n. 4, p. 991–1012, 2022. DOI: 10.1007/s12021-022-09581-8.",
+    "doi": "10.1007/s12021-022-09581-8",
+    "url": "https://doi.org/10.1007/s12021-022-09581-8",
+    "ano": 2022,
+    "autores_curto": "Gerster et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "8 autores."
+  },
+  "trondle2022": {
+    "abnt": "TRÖNDLE, M. et al. Decomposing the role of alpha oscillations during brain maturation. **eLife**, v. 11, art. e77571, 2022. DOI: 10.7554/eLife.77571.",
+    "doi": "10.7554/eLife.77571",
+    "url": "https://doi.org/10.7554/eLife.77571",
+    "ano": 2022,
+    "autores_curto": "Tröndle et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "4 autores (Tröndle, Popov, Dziemian, Langer)."
+  },
+  "cellier2021": {
+    "abnt": "CELLIER, D. et al. The development of theta and alpha neural oscillations from ages 3 to 24 years. **Developmental Cognitive Neuroscience**, v. 50, art. 100969, 2021. DOI: 10.1016/j.dcn.2021.100969.",
+    "doi": "10.1016/j.dcn.2021.100969",
+    "url": "https://doi.org/10.1016/j.dcn.2021.100969",
+    "ano": 2021,
+    "autores_curto": "Cellier et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "4 autores (Cellier, Riddle, Petersen, Hwang)."
+  },
+  "trondle_langer2026": {
+    "abnt": "TRÖNDLE, M.; LANGER, N. Non-neural sources systematically impact aperiodic EEG activity. **bioRxiv**, 2026. Preprint, versão 2. DOI: 10.64898/2026.01.29.702285. Disponível em: https://doi.org/10.64898/2026.01.29.702285. Acesso em: 8 nov. 2026.",
+    "doi": "10.64898/2026.01.29.702285",
+    "url": "https://doi.org/10.64898/2026.01.29.702285",
+    "ano": 2026,
+    "autores_curto": "Tröndle e Langer",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + API do bioRxiv",
+    "nota": "Preprint (bioRxiv, não revisado). v1 de 02/02/2026 com o título 'The impact of non-neural sources on aperiodic EEG activity'; v2 de 23/04/2026 com o título atual (o Crossref traz o título da v2). ATENÇÃO À AFIRMAÇÃO: o resumo diz que 'ocular artifacts and poor data quality systematically inflate aperiodic offsets and exponents' (artefatos musculares têm efeito oposto). O resumo NÃO fala em piscadas especificamente; o texto completo não foi lido (bioRxiv bloqueou o acesso). No artigo, escrever 'artefatos oculares' ou conferir no texto completo antes de escrever 'piscadas'."
+  },
+  "panda2026": {
+    "abnt": "PANDA, E. J. et al. Relating ADHD to the aperiodic component of the EEG signal in both males and females across development. **Developmental Cognitive Neuroscience**, v. 79, art. 101732, 2026. DOI: 10.1016/j.dcn.2026.101732.",
+    "doi": "10.1016/j.dcn.2026.101732",
+    "url": "https://doi.org/10.1016/j.dcn.2026.101732",
+    "ano": 2026,
+    "autores_curto": "Panda et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "5 autores (Panda, Arulnandhy, Tekok-Kilic, Segalowitz, Marshall). Registered report; HBN. Volume de junho de 2026."
+  },
+  "strzelczyk2026": {
+    "abnt": "STRZELCZYK, D.; VETSCH, A.; LANGER, N. Theta-beta ratio in attention deficit hyperactivity disorder: a multiverse analysis. **eLife**, v. 15, RP111114, 2026. Reviewed preprint, versão 2. DOI: 10.7554/eLife.111114.2.",
+    "doi": "10.7554/eLife.111114.2",
+    "url": "https://doi.org/10.7554/eLife.111114.2",
+    "ano": 2026,
+    "autores_curto": "Strzelczyk, Vetsch e Langer",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PDF local (Biblioteca Nucleo/Strzelczyk_2026_Theta_Beta_Multiverse.pdf)",
+    "nota": "O Crossref classifica o DOI como 'posted-content' (reviewed preprint v2, 16/06/2026), não como versão final (VOR). Volume 15 e RP111114 vêm do rodapé de citação do PDF. Se sair a versão final, atualizar o DOI."
+  },
+  "robertson2019": {
+    "abnt": "ROBERTSON, M. M. et al. EEG power spectral slope differs by ADHD status and stimulant medication exposure in early childhood. **Journal of Neurophysiology**, v. 122, n. 6, p. 2427–2437, 2019. DOI: 10.1152/jn.00388.2019.",
+    "doi": "10.1152/jn.00388.2019",
+    "url": "https://doi.org/10.1152/jn.00388.2019",
+    "ano": 2019,
+    "autores_curto": "Robertson et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "6 autores."
+  },
+  "karalunas2022": {
+    "abnt": "KARALUNAS, S. L. et al. Electroencephalogram aperiodic power spectral slope can be reliably measured and predicts ADHD risk in early development. **Developmental Psychobiology**, v. 64, n. 3, art. e22228, 2022. DOI: 10.1002/dev.22228.",
+    "doi": "10.1002/dev.22228",
+    "url": "https://doi.org/10.1002/dev.22228",
+    "ano": 2022,
+    "autores_curto": "Karalunas et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "11 autores."
+  },
+  "ostlund2021": {
+    "abnt": "OSTLUND, B. D. et al. Behavioral and cognitive correlates of the aperiodic (1/f-like) exponent of the EEG power spectrum in adolescents with and without ADHD. **Developmental Cognitive Neuroscience**, v. 48, art. 100931, 2021. DOI: 10.1016/j.dcn.2021.100931.",
+    "doi": "10.1016/j.dcn.2021.100931",
+    "url": "https://doi.org/10.1016/j.dcn.2021.100931",
+    "ano": 2021,
+    "autores_curto": "Ostlund et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "ESCOLHA: a chave é de 2021 e o artigo de 2021 de Ostlund sobre TDAH é este (4 autores: Ostlund, Alperin, Drew, Karalunas; há corrigendum em DCN 64:101273, 2023, DOI 10.1016/j.dcn.2023.101273). O outro candidato da pista, 'Spectral parameterization for studying neurodevelopment: how and why', saiu em 2022: OSTLUND, B. et al. **Developmental Cognitive Neuroscience**, v. 54, art. 101073, 2022, DOI 10.1016/j.dcn.2022.101073 (preprint PsyArXiv de 2021). Se o texto cita o artigo metodológico, trocar e renomear a chave para ostlund2022."
+  },
+  "arnett2022": {
+    "abnt": "ARNETT, A. B.; PEISCH, V.; LEVIN, A. R. The role of aperiodic spectral slope in event-related potentials and cognition among children with and without attention deficit hyperactivity disorder. **Journal of Neurophysiology**, v. 128, n. 6, p. 1546–1554, 2022. DOI: 10.1152/jn.00295.2022.",
+    "doi": "10.1152/jn.00295.2022",
+    "url": "https://doi.org/10.1152/jn.00295.2022",
+    "ano": 2022,
+    "autores_curto": "Arnett, Peisch e Levin",
+    "verificada": false,
+    "fonte_verificacao": "Crossref API + lista de referências de Donoghue (2025)",
+    "nota": "Metadados conferidos, mas a IDENTIDADE é ambígua: a revisão de Donoghue (2025) lista TRÊS artigos de Arnett de 2022 no TDAH: (a) este, J Neurophysiol, sobre o slope aperiódico (escolhido por ser o único centrado no componente aperiódico); (b) ARNETT, A. B. et al. Absence of dynamic neural oscillatory response to environmental conditions marks childhood attention deficit hyperactivity disorder. **Journal of Child Psychology and Psychiatry**, v. 63, n. 12, p. 1615–1621, 2022, DOI 10.1111/jcpp.13645 (4 autores; oscilações + aperiódico); (c) ARNETT, A. B.; RUTTER, T. M.; STEIN, M. A. Neural markers of methylphenidate response in children with ADHD. Frontiers in Behavioral Neuroscience 16:887622, 2022 (só pela lista da revisão; não conferido no Crossref). 'Arnett et al.' + 'aperiodic/oscillations' cabe em (a) ou (b). Confirmar qual sustenta a frase do artigo."
+  },
+  "arns2013": {
+    "abnt": "ARNS, M.; CONNERS, C. K.; KRAEMER, H. C. A decade of EEG theta/beta ratio research in ADHD: a meta-analysis. **Journal of Attention Disorders**, v. 17, n. 5, p. 374–383, 2013. DOI: 10.1177/1087054712460087.",
+    "doi": "10.1177/1087054712460087",
+    "url": "https://doi.org/10.1177/1087054712460087",
+    "ano": 2013,
+    "autores_curto": "Arns, Conners e Kraemer",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Online em 19/10/2012; fascículo 17(5) de jul. 2013. O Crossref traz 'A Meta-Analysis' como subtítulo."
+  },
+  "saad2018": {
+    "abnt": "SAAD, J. F. et al. Is the theta/beta EEG marker for ADHD inherently flawed? **Journal of Attention Disorders**, v. 22, n. 9, p. 815–826, 2018. DOI: 10.1177/1087054715578270.",
+    "doi": "10.1177/1087054715578270",
+    "url": "https://doi.org/10.1177/1087054715578270",
+    "ano": 2018,
+    "autores_curto": "Saad et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "5 autores. Online em 30/03/2015; fascículo 22(9) de jul. 2018."
+  },
+  "lenartowicz2014": {
+    "abnt": "LENARTOWICZ, A.; LOO, S. K. Use of EEG to diagnose ADHD. **Current Psychiatry Reports**, v. 16, n. 11, art. 498, 2014. DOI: 10.1007/s11920-014-0498-0.",
+    "doi": "10.1007/s11920-014-0498-0",
+    "url": "https://doi.org/10.1007/s11920-014-0498-0",
+    "ano": 2014,
+    "autores_curto": "Lenartowicz e Loo",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "PDF também na Biblioteca Nucleo."
+  },
+  "barry2002": {
+    "abnt": "BARRY, R. J. et al. EEG coherence in attention-deficit/hyperactivity disorder: a comparative study of two DSM-IV types. **Clinical Neurophysiology**, v. 113, n. 4, p. 579–585, 2002. DOI: 10.1016/S1388-2457(02)00036-6.",
+    "doi": "10.1016/S1388-2457(02)00036-6",
+    "url": "https://doi.org/10.1016/S1388-2457(02)00036-6",
+    "ano": 2002,
+    "autores_curto": "Barry et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (PMID 11956003)",
+    "nota": "O Crossref lista só 'Barry, R'; o PubMed confirma 4 autores (Barry, Clarke, McCarthy, Selikowitz)."
+  },
+  "murias2007": {
+    "abnt": "MURIAS, M.; SWANSON, J. M.; SRINIVASAN, R. Functional connectivity of frontal cortex in healthy and ADHD children reflected in EEG coherence. **Cerebral Cortex**, v. 17, n. 8, p. 1788–1799, 2007. DOI: 10.1093/cercor/bhl089.",
+    "doi": "10.1093/cercor/bhl089",
+    "url": "https://doi.org/10.1093/cercor/bhl089",
+    "ano": 2007,
+    "autores_curto": "Murias, Swanson e Srinivasan",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Online em 05/10/2006; fascículo de ago. 2007."
+  },
+  "chiarenza2018": {
+    "abnt": "CHIARENZA, G. A. et al. Junior temperament character inventory together with quantitative EEG discriminate children with attention deficit hyperactivity disorder combined subtype from children with attention deficit hyperactivity disorder combined subtype plus oppositional defiant disorder. **International Journal of Psychophysiology**, v. 130, p. 9–20, 2018. DOI: 10.1016/j.ijpsycho.2018.05.007.",
+    "doi": "10.1016/j.ijpsycho.2018.05.007",
+    "url": "https://doi.org/10.1016/j.ijpsycho.2018.05.007",
+    "ano": 2018,
+    "autores_curto": "Chiarenza et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + lista de referências de Lopez Naranjo et al. (2024)",
+    "nota": "É exatamente a referência que Lopez Naranjo et al. (2024) citam para a alteração de homeostase em delta, teta e beta no hemisfério direito no TDAH combinado (p. 17 do PDF local). 5 autores."
+  },
+  "chabot2001": {
+    "abnt": "CHABOT, R. J. et al. The clinical role of computerized EEG in the evaluation and treatment of learning and attention disorders in children and adolescents. **The Journal of Neuropsychiatry and Clinical Neurosciences**, v. 13, n. 2, p. 171–186, 2001. DOI: 10.1176/jnp.13.2.171.",
+    "doi": "10.1176/jnp.13.2.171",
+    "url": "https://doi.org/10.1176/jnp.13.2.171",
+    "ano": 2001,
+    "autores_curto": "Chabot et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + lista de referências de Lopez Naranjo et al. (2024)",
+    "nota": "CORREÇÃO DA PISTA: o título dado na pista ('Sensitivity and specificity of QEEG in children with attention deficit or specific developmental learning disorders', Clin Electroencephalogr) é de 1996, não de 2001. A revisão de 2001 é a acima (4 autores: Chabot, di Michele, Prichep, John; Lopez Naranjo a cita como 'Chabot (2001)' com o DOI alternativo 10.1176/appi.neuropsych.13.2.171, que resolve para o mesmo registro). Lopez Naranjo cita as duas; se o texto também precisar da de 1996: CHABOT, R. J. et al. Sensitivity and specificity of QEEG in children with attention deficit or specific developmental learning disorders. **Clinical Electroencephalography**, v. 27, n. 1, p. 26–34, 1996. DOI: 10.1177/155005949602700105 (conferida no Crossref; chave sugerida chabot1996)."
+  },
+  "blankertz2008": {
+    "abnt": "BLANKERTZ, B. et al. Optimizing spatial filters for robust EEG single-trial analysis. **IEEE Signal Processing Magazine**, v. 25, n. 1, p. 41–56, 2008. DOI: 10.1109/MSP.2008.4408441.",
+    "doi": "10.1109/MSP.2008.4408441",
+    "url": "https://doi.org/10.1109/MSP.2008.4408441",
+    "ano": 2008,
+    "autores_curto": "Blankertz et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "5 autores."
+  },
+  "barachant2012": {
+    "abnt": "BARACHANT, A. et al. Multiclass brain–computer interface classification by Riemannian geometry. **IEEE Transactions on Biomedical Engineering**, v. 59, n. 4, p. 920–928, 2012. DOI: 10.1109/TBME.2011.2172210.",
+    "doi": "10.1109/TBME.2011.2172210",
+    "url": "https://doi.org/10.1109/TBME.2011.2172210",
+    "ano": 2012,
+    "autores_curto": "Barachant et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "4 autores (Barachant, Bonnet, Congedo, Jutten)."
+  },
+  "congedo2017": {
+    "abnt": "CONGEDO, M.; BARACHANT, A.; BHATIA, R. Riemannian geometry for EEG-based brain-computer interfaces; a primer and a review. **Brain-Computer Interfaces**, v. 4, n. 3, p. 155–174, 2017. DOI: 10.1080/2326263X.2017.1297192.",
+    "doi": "10.1080/2326263X.2017.1297192",
+    "url": "https://doi.org/10.1080/2326263X.2017.1297192",
+    "ano": 2017,
+    "autores_curto": "Congedo, Barachant e Bhatia",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": ""
+  },
+  "haufe2014": {
+    "abnt": "HAUFE, S. et al. On the interpretation of weight vectors of linear models in multivariate neuroimaging. **NeuroImage**, v. 87, p. 96–110, 2014. DOI: 10.1016/j.neuroimage.2013.10.067.",
+    "doi": "10.1016/j.neuroimage.2013.10.067",
+    "url": "https://doi.org/10.1016/j.neuroimage.2013.10.067",
+    "ano": 2014,
+    "autores_curto": "Haufe et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "7 autores."
+  },
+  "taghibeyglou2020": {
+    "abnt": "TAGHIBEYGLOU, B. et al. ADHD diagnosis in children using common spatial pattern and nonlinear analysis of filter banked EEG. In: IRANIAN CONFERENCE ON ELECTRICAL ENGINEERING (ICEE), 28., 2020. **Proceedings** [...]. [S. l.]: IEEE, 2020. p. 1–5. DOI: 10.1109/ICEE50131.2020.9260711.",
+    "doi": "10.1109/ICEE50131.2020.9260711",
+    "url": "https://doi.org/10.1109/ICEE50131.2020.9260711",
+    "ano": 2020,
+    "autores_curto": "TaghiBeyglou et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "A pista dizia 'sem DOI conhecido', mas o Crossref tem DOI (IEEE, publicado em 04/08/2020, p. 1–5). 4 autores (TaghiBeyglou, Hasanzadeh, Bagheri, Jahed). Local do evento não confirmado, por isso '[S. l.]'. Na v2 a chave era taghi2020."
+  },
+  "alexander2017": {
+    "abnt": "ALEXANDER, L. M. et al. An open resource for transdiagnostic research in pediatric mental health and learning disorders. **Scientific Data**, v. 4, art. 170181, 2017. DOI: 10.1038/sdata.2017.181.",
+    "doi": "10.1038/sdata.2017.181",
+    "url": "https://doi.org/10.1038/sdata.2017.181",
+    "ano": 2017,
+    "autores_curto": "Alexander et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "67 autores. Artigo descritor do Healthy Brain Network (HBN)."
+  },
+  "vandijk2022": {
+    "abnt": "VAN DIJK, H. et al. The two decades brainclinics research archive for insights in neurophysiology (TDBRAIN) database. **Scientific Data**, v. 9, art. 333, 2022. DOI: 10.1038/s41597-022-01409-z.",
+    "doi": "10.1038/s41597-022-01409-z",
+    "url": "https://doi.org/10.1038/s41597-022-01409-z",
+    "ano": 2022,
+    "autores_curto": "van Dijk et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PDF local",
+    "nota": "6 autores."
+  },
+  "nasrabadi2020": {
+    "abnt": "MOTI NASRABADI, A. et al. **EEG data for ADHD / control children**. [S. l.]: IEEE Dataport, 2020. [Conjunto de dados]. DOI: 10.21227/rzfh-zn36. Disponível em: https://ieee-dataport.org/open-access/eeg-data-adhd-control-children. Acesso em: 8 nov. 2026.",
+    "doi": "10.21227/rzfh-zn36",
+    "url": "https://ieee-dataport.org/open-access/eeg-data-adhd-control-children",
+    "ano": 2020,
+    "autores_curto": "Moti Nasrabadi et al.",
+    "verificada": true,
+    "fonte_verificacao": "DataCite API",
+    "nota": "DOI registrado no DataCite (não no Crossref). Criadores no DataCite: 'Moti Nasrabadi, Ali'; Allahverdy, Armin; Samavati, Mehdi; Mohammadi, Mohammad Reza. A grafia do sobrenome no registro é 'Moti Nasrabadi' (a pista dizia 'Motie'); usar a do registro. Se a revista pedir a grafia do artigo de origem, conferir."
+  },
+  "kapoor2023": {
+    "abnt": "KAPOOR, S.; NARAYANAN, A. Leakage and the reproducibility crisis in machine-learning-based science. **Patterns**, v. 4, n. 9, art. 100804, 2023. DOI: 10.1016/j.patter.2023.100804.",
+    "doi": "10.1016/j.patter.2023.100804",
+    "url": "https://doi.org/10.1016/j.patter.2023.100804",
+    "ano": 2023,
+    "autores_curto": "Kapoor e Narayanan",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": ""
+  },
+  "brookshire2024": {
+    "abnt": "BROOKSHIRE, G. et al. Data leakage in deep learning studies of translational EEG. **Frontiers in Neuroscience**, v. 18, art. 1373515, 2024. DOI: 10.3389/fnins.2024.1373515.",
+    "doi": "10.3389/fnins.2024.1373515",
+    "url": "https://doi.org/10.3389/fnins.2024.1373515",
+    "ano": 2024,
+    "autores_curto": "Brookshire et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "10 autores."
+  },
+  "delpup2025": {
+    "abnt": "DEL PUP, F. et al. The role of data partitioning on the performance of EEG-based deep learning models in supervised cross-subject analysis: a preliminary study. **Computers in Biology and Medicine**, v. 196, art. 110608, 2025. DOI: 10.1016/j.compbiomed.2025.110608.",
+    "doi": "10.1016/j.compbiomed.2025.110608",
+    "url": "https://doi.org/10.1016/j.compbiomed.2025.110608",
+    "ano": 2025,
+    "autores_curto": "Del Pup et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Versão publicada (set. 2025), 6 autores. A dissertação (referencias.bib) ainda cita o preprint arXiv:2505.13021; preferir a versão publicada."
+  },
+  "saeb2017": {
+    "abnt": "SAEB, S. et al. The need to approximate the use-case in clinical machine learning. **GigaScience**, v. 6, n. 5, art. gix019, 2017. DOI: 10.1093/gigascience/gix019.",
+    "doi": "10.1093/gigascience/gix019",
+    "url": "https://doi.org/10.1093/gigascience/gix019",
+    "ano": 2017,
+    "autores_curto": "Saeb et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "5 autores."
+  },
+  "freedman1983": {
+    "abnt": "FREEDMAN, D.; LANE, D. A nonstochastic interpretation of reported significance levels. **Journal of Business & Economic Statistics**, v. 1, n. 4, p. 292–298, 1983. DOI: 10.1080/07350015.1983.10509354.",
+    "doi": "10.1080/07350015.1983.10509354",
+    "url": "https://doi.org/10.1080/07350015.1983.10509354",
+    "ano": 1983,
+    "autores_curto": "Freedman e Lane",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": ""
+  },
+  "winkler2014": {
+    "abnt": "WINKLER, A. M. et al. Permutation inference for the general linear model. **NeuroImage**, v. 92, p. 381–397, 2014. DOI: 10.1016/j.neuroimage.2014.01.060.",
+    "doi": "10.1016/j.neuroimage.2014.01.060",
+    "url": "https://doi.org/10.1016/j.neuroimage.2014.01.060",
+    "ano": 2014,
+    "autores_curto": "Winkler et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "5 autores."
+  },
+  "hedges1981": {
+    "abnt": "HEDGES, L. V. Distribution theory for Glass's estimator of effect size and related estimators. **Journal of Educational Statistics**, v. 6, n. 2, p. 107–128, 1981. DOI: 10.3102/10769986006002107.",
+    "doi": "10.3102/10769986006002107",
+    "url": "https://doi.org/10.3102/10769986006002107",
+    "ano": 1981,
+    "autores_curto": "Hedges",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": ""
+  },
+  "hanley1982": {
+    "abnt": "HANLEY, J. A.; MCNEIL, B. J. The meaning and use of the area under a receiver operating characteristic (ROC) curve. **Radiology**, v. 143, n. 1, p. 29–36, 1982. DOI: 10.1148/radiology.143.1.7063747.",
+    "doi": "10.1148/radiology.143.1.7063747",
+    "url": "https://doi.org/10.1148/radiology.143.1.7063747",
+    "ano": 1982,
+    "autores_curto": "Hanley e McNeil",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": ""
+  },
+  "apa2013dsm5": {
+    "abnt": "AMERICAN PSYCHIATRIC ASSOCIATION. **Diagnostic and statistical manual of mental disorders**: DSM-5. 5th ed. Arlington, VA: American Psychiatric Association, 2013. DOI: 10.1176/appi.books.9780890425596.",
+    "doi": "10.1176/appi.books.9780890425596",
+    "url": "https://doi.org/10.1176/appi.books.9780890425596",
+    "ano": 2013,
+    "autores_curto": "American Psychiatric Association",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Crossref: monografia de 22/05/2013, editora American Psychiatric Association. O local (Arlington, VA) não vem do Crossref; é o da edição de 2013. Se o artigo usar a tradução brasileira (Artmed, 2014) ou o DSM-5-TR (2022), trocar a referência."
+  },
+  "willcutt2012": {
+    "abnt": "WILLCUTT, E. G. et al. Validity of DSM-IV attention deficit/hyperactivity disorder symptom dimensions and subtypes. **Journal of Abnormal Psychology**, v. 121, n. 4, p. 991–1010, 2012. DOI: 10.1037/a0027347.",
+    "doi": "10.1037/a0027347",
+    "url": "https://doi.org/10.1037/a0027347",
+    "ano": 2012,
+    "autores_curto": "Willcutt et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "10 autores."
+  },
+  "faraone2021": {
+    "abnt": "FARAONE, S. V. et al. The World Federation of ADHD International Consensus Statement: 208 evidence-based conclusions about the disorder. **Neuroscience & Biobehavioral Reviews**, v. 128, p. 789–818, 2021. DOI: 10.1016/j.neubiorev.2021.01.022.",
+    "doi": "10.1016/j.neubiorev.2021.01.022",
+    "url": "https://doi.org/10.1016/j.neubiorev.2021.01.022",
+    "ano": 2021,
+    "autores_curto": "Faraone et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "80 autores."
+  },
+  "polanczyk2007": {
+    "abnt": "POLANCZYK, G. et al. The worldwide prevalence of ADHD: a systematic review and metaregression analysis. **American Journal of Psychiatry**, v. 164, n. 6, p. 942–948, 2007. DOI: 10.1176/ajp.2007.164.6.942.",
+    "doi": "10.1176/ajp.2007.164.6.942",
+    "url": "https://doi.org/10.1176/ajp.2007.164.6.942",
+    "ano": 2007,
+    "autores_curto": "Polanczyk et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "5 autores."
+  },
+  "yao2001": {
+    "abnt": "YAO, D. A method to standardize a reference of scalp EEG recordings to a point at infinity. **Physiological Measurement**, v. 22, n. 4, p. 693–711, 2001. DOI: 10.1088/0967-3334/22/4/305.",
+    "doi": "10.1088/0967-3334/22/4/305",
+    "url": "https://doi.org/10.1088/0967-3334/22/4/305",
+    "ano": 2001,
+    "autores_curto": "Yao",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": ""
+  },
+  "tricco2018": {
+    "abnt": "TRICCO, A. C. et al. PRISMA Extension for Scoping Reviews (PRISMA-ScR): checklist and explanation. **Annals of Internal Medicine**, v. 169, n. 7, p. 467–473, 2018. DOI: 10.7326/M18-0850.",
+    "doi": "10.7326/M18-0850",
+    "url": "https://doi.org/10.7326/M18-0850",
+    "ano": 2018,
+    "autores_curto": "Tricco et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "28 autores."
+  },
+  "collins2024tripod": {
+    "abnt": "COLLINS, G. S. et al. TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods. **BMJ**, v. 385, art. e078378, 2024. DOI: 10.1136/bmj-2023-078378.",
+    "doi": "10.1136/bmj-2023-078378",
+    "url": "https://doi.org/10.1136/bmj-2023-078378",
+    "ano": 2024,
+    "autores_curto": "Collins et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "34 autores. Há correção posterior (BMJ 2024;385:q902), segundo o status da v2."
+  },
+  "brown2012": {
+    "abnt": "BROWN, M. R. G. et al. ADHD-200 Global Competition: diagnosing ADHD using personal characteristic data can outperform resting state fMRI measurements. **Frontiers in Systems Neuroscience**, v. 6, art. 69, 2012. DOI: 10.3389/fnsys.2012.00069.",
+    "doi": "10.3389/fnsys.2012.00069",
+    "url": "https://doi.org/10.3389/fnsys.2012.00069",
+    "ano": 2012,
+    "autores_curto": "Brown et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "8 autores. O Crossref não traz o número do artigo; 'art. 69' segue o padrão Frontiers (sufixo do DOI 00069)."
+  },
+  "zech2018": {
+    "abnt": "ZECH, J. R. et al. Variable generalization performance of a deep learning model to detect pneumonia in chest radiographs: a cross-sectional study. **PLOS Medicine**, v. 15, n. 11, art. e1002683, 2018. DOI: 10.1371/journal.pmed.1002683.",
+    "doi": "10.1371/journal.pmed.1002683",
+    "url": "https://doi.org/10.1371/journal.pmed.1002683",
+    "ano": 2018,
+    "autores_curto": "Zech et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "6 autores."
+  },
+  "gelman2008": {
+    "abnt": "GELMAN, A. et al. A weakly informative default prior distribution for logistic and other regression models. **The Annals of Applied Statistics**, v. 2, n. 4, p. 1360–1383, 2008. DOI: 10.1214/08-AOAS191.",
+    "doi": "10.1214/08-AOAS191",
+    "url": "https://doi.org/10.1214/08-AOAS191",
+    "ano": 2008,
+    "autores_curto": "Gelman et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "4 autores (Gelman, Jakulin, Pittau, Su)."
+  },
+  "vehtari2017loo": {
+    "abnt": "VEHTARI, A.; GELMAN, A.; GABRY, J. Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC. **Statistics and Computing**, v. 27, n. 5, p. 1413–1432, 2017. DOI: 10.1007/s11222-016-9696-4.",
+    "doi": "10.1007/s11222-016-9696-4",
+    "url": "https://doi.org/10.1007/s11222-016-9696-4",
+    "ano": 2017,
+    "autores_curto": "Vehtari, Gelman e Gabry",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Online em 30/08/2016; fascículo de set. 2017. Há errata (p. 1433, DOI 10.1007/s11222-016-9709-3)."
+  },
+  "nomad2026": {
+    "abnt": "HELWAN, A.; HENNI, K.; ABOU-ABBAS, L. NOMAD-EEG: native omni-montage adaptive diffusion. **arXiv**, 2026. Preprint arXiv:2610.35246v1. DOI: 10.48550/arXiv.2610.35246. Disponível em: https://arxiv.org/abs/2610.35246. Acesso em: 8 nov. 2026.",
+    "doi": "10.48550/arXiv.2610.35246",
+    "url": "https://arxiv.org/abs/2610.35246",
+    "ano": 2026,
+    "autores_curto": "Helwan, Henni e Abou-Abbas",
+    "verificada": true,
+    "fonte_verificacao": "arXiv (página abs) + DataCite + PDF local (nomadeeg.pdf)",
+    "nota": "Preprint de 26/10/2026 [cs.LG], não revisado. O identificador arXiv:2610.35246 é real (página abs e DataCite confirmam título e 3 autores)."
+  },
+  "helwan2026": {
+    "abnt": "HELWAN, A.; HENNI, K.; ABOU-ABBAS, L. NOMAD-EEG: native omni-montage adaptive diffusion. **arXiv**, 2026. Preprint arXiv:2610.35246v1. DOI: 10.48550/arXiv.2610.35246. Disponível em: https://arxiv.org/abs/2610.35246. Acesso em: 8 nov. 2026.",
+    "doi": "10.48550/arXiv.2610.35246",
+    "url": "https://arxiv.org/abs/2610.35246",
+    "ano": 2026,
+    "autores_curto": "Helwan, Henni e Abou-Abbas",
+    "verificada": true,
+    "fonte_verificacao": "arXiv (página abs) + DataCite + PDF local (nomadeeg.pdf)",
+    "nota": "DUPLICATA de nomad2026: é o MESMO preprint. As afirmações atribuídas a 'Helwan et al., 2026' na discussão da v2 (7 modelos fundacionais no TUEP, AUC ~0,62–0,69; acurácia de validação 0,96–0,98 contra 0,77 no teste; modelo Large com 47 vezes mais dados sem ganho; pesos aleatórios igualando no Mumtaz/depressão) estão todas no texto do NOMAD-EEG (seções 4.4–4.6). Usar uma chave só no artigo, senão a lista sai com a mesma obra duas vezes. Com 3 autores, a citação ABNT no texto é 'Helwan, Henni e Abou-Abbas (2026)', não 'et al.'."
+  },
+  "jvrafrica_foto": {
+    "abnt": "JVRAFRICA. **EEG machine**: developed by Hans Berger, 1924 (imported to South Africa c. 1950). National Institute for Personnel Research (NIPR) Collection. [S. l.], [20--]. 1 fotografia. Disponível em: https://www.flickr.com/photos/jvrafrica/. Acesso em: 2 nov. 2026.",
+    "doi": null,
+    "url": "https://www.flickr.com/photos/jvrafrica/",
+    "ano": null,
+    "autores_curto": "JVRAFRICA",
+    "verificada": false,
+    "fonte_verificacao": "Flickr (perfil do usuário)",
+    "nota": "Documento iconográfico online (ABNT 6023:2018, 7.15). Confirmado: o perfil flickr.com/photos/jvrafrica existe (NSID 61902515@N06) e tem o álbum de instrumentos do NIPR (albums/72157630541568004, com fotos 'Circle Test (NIPR)', 'Three Dimensional Pegboard (NIPR)' etc.). NÃO confirmado: a página da foto do EEG. A busca por título, a paginação do perfil e a API do Flickr falharam (a página carrega as fotos por JavaScript e a API recusou a chave do site). A URL acima é a do perfil; trocar pela URL exata da foto (https://www.flickr.com/photos/jvrafrica/<id>) abrindo-a no navegador. Conferir também a licença: as fotos vistas do álbum estão como 'license: 0' (todos os direitos reservados), o que pode exigir autorização para reproduzir a imagem no artigo. Data da foto desconhecida, por isso '[20--]'."
+  },
+  "barry2003review": {
+    "abnt": "BARRY, R. J.; CLARKE, A. R.; JOHNSTONE, S. J. A review of electrophysiology in attention-deficit/hyperactivity disorder: I. Qualitative and quantitative electroencephalography. **Clinical Neurophysiology**, v. 114, n. 2, p. 171–183, 2003. DOI: 10.1016/S1388-2457(02)00362-0.",
+    "doi": "10.1016/S1388-2457(02)00362-0",
+    "url": "https://doi.org/10.1016/S1388-2457(02)00362-0",
+    "ano": 2003,
+    "autores_curto": "Barry, Clarke e Johnstone",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Parte I; a Parte II (ERP) é 10.1016/S1388-2457(02)00363-2, p. 184–198."
+  },
+  "hill2022": {
+    "abnt": "HILL, A. T. et al. Periodic and aperiodic neural activity displays age-dependent changes across early-to-middle childhood. **Developmental Cognitive Neuroscience**, v. 54, art. 101076, 2022. DOI: 10.1016/j.dcn.2022.101076.",
+    "doi": "10.1016/j.dcn.2022.101076",
+    "url": "https://doi.org/10.1016/j.dcn.2022.101076",
+    "ano": 2022,
+    "autores_curto": "Hill et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: dos 4 aos 12 anos (N = 139), o expoente e o offset aperiódicos caem com a idade e o pico alfa (já descontado o aperiódico) sobe; a potência alfa/beta ajustada não muda com a idade. 5 autores (Hill, Clark, Bigelow, Lum, Enticott). Há preprint bioRxiv de 2021; citar a versão publicada."
+  },
+  "schaworonkow2021": {
+    "abnt": "SCHAWORONKOW, N.; VOYTEK, B. Longitudinal changes in aperiodic and periodic activity in electrophysiological recordings in the first seven months of life. **Developmental Cognitive Neuroscience**, v. 47, art. 100895, 2021. DOI: 10.1016/j.dcn.2020.100895.",
+    "doi": "10.1016/j.dcn.2020.100895",
+    "url": "https://doi.org/10.1016/j.dcn.2020.100895",
+    "ano": 2021,
+    "autores_curto": "Schaworonkow e Voytek",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: o achatamento progressivo do espectro (mudança do aperiódico) já começa nos primeiros meses de vida (22 bebês, 38–203 dias, longitudinal), e o aperiódico enviesa a medida das oscilações se não for separado."
+  },
+  "mcsweeney2023": {
+    "abnt": "MCSWEENEY, M. et al. Age-related trends in aperiodic EEG activity and alpha oscillations during early- to middle-childhood. **NeuroImage**, v. 269, art. 119925, 2023. DOI: 10.1016/j.neuroimage.2023.119925.",
+    "doi": "10.1016/j.neuroimage.2023.119925",
+    "url": "https://doi.org/10.1016/j.neuroimage.2023.119925",
+    "ano": 2023,
+    "autores_curto": "McSweeney et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: na infância inicial e média, o offset e o expoente aperiódicos têm tendência quadrática com a idade e o pico alfa sobe; o aperiódico e a potência alfa são maiores de olhos fechados do que abertos (serve também para o tema ESTADO). A pista mandava usar a entrada 'mcsweeney' da bib da v2, mas NÃO existe mcsweeney nesse bib.tex (nem na v1 ou na dissertação). Achei pelo Crossref; 11 autores. A chave ficou mcsweeney2023 porque é o ano do artigo."
+  },
+  "merkin2023": {
+    "abnt": "MERKIN, A. et al. Do age-related differences in aperiodic neural activity explain differences in resting EEG alpha? **Neurobiology of Aging**, v. 121, p. 78–87, 2023. DOI: 10.1016/j.neurobiolaging.2022.09.003.",
+    "doi": "10.1016/j.neurobiolaging.2022.09.003",
+    "url": "https://doi.org/10.1016/j.neurobiolaging.2022.09.003",
+    "ano": 2023,
+    "autores_curto": "Merkin et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: em adultos, o expoente e o offset aperiódicos são menores nos idosos (85 jovens × 92 idosos); depois de descontar o aperiódico, a potência alfa deixa de diferir entre as idades, mas o pico alfa continua mais lento nos idosos. O título da pista ('Age differences in aperiodic neural activity measured with resting EEG') é o do preprint bioRxiv de 2021 (10.1101/2021.08.31.458328); a versão publicada mudou de título e é a acima (10 autores). ATENÇÃO: é envelhecimento ADULTO, não desenvolvimento infantil; serve como evidência geral de que o aperiódico muda com a idade e confunde o alfa, não para crianças."
+  },
+  "clarke2001agesex": {
+    "abnt": "CLARKE, A. R. et al. Age and sex effects in the EEG: development of the normal child. **Clinical Neurophysiology**, v. 112, n. 5, p. 806–814, 2001. DOI: 10.1016/S1388-2457(01)00488-6.",
+    "doi": "10.1016/S1388-2457(01)00488-6",
+    "url": "https://doi.org/10.1016/S1388-2457(01)00488-6",
+    "ano": 2001,
+    "autores_curto": "Clarke et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: em crianças típicas, as ondas lentas (delta e teta relativos, razões teta/alfa e teta/beta) diminuem com a idade e alfa e beta aumentam; os meninos têm menos teta e mais alfa que as meninas, que mostram atraso de desenvolvimento no EEG. 4 autores (Clarke, Barry, McCarthy, Selikowitz); pela regra, 'et al.'."
+  },
+  "clarke2001agesexadhd": {
+    "abnt": "CLARKE, A. R. et al. Age and sex effects in the EEG: differences in two subtypes of attention-deficit/hyperactivity disorder. **Clinical Neurophysiology**, v. 112, n. 5, p. 815–826, 2001. DOI: 10.1016/S1388-2457(01)00487-4.",
+    "doi": "10.1016/S1388-2457(01)00487-4",
+    "url": "https://doi.org/10.1016/S1388-2457(01)00487-4",
+    "ano": 2001,
+    "autores_curto": "Clarke et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: no TDAH, as diferenças de EEG em relação aos controles são maiores nos meninos do que nas meninas e mudam com a idade de forma diferente por subtipo (o combinado converge com o desatento com a idade); liga sexo, idade e subtipo no mesmo estudo. Chave NOVA (não pedida): artigo-irmão do clarke2001agesex, no mesmo fascículo."
+  },
+  "clarke2003girls": {
+    "abnt": "CLARKE, A. R. et al. EEG activity in girls with attention-deficit/hyperactivity disorder. **Clinical Neurophysiology**, v. 114, n. 2, p. 319–328, 2003. DOI: 10.1016/S1388-2457(02)00364-4.",
+    "doi": "10.1016/S1388-2457(02)00364-4",
+    "url": "https://doi.org/10.1016/S1388-2457(02)00364-4",
+    "ano": 2003,
+    "autores_curto": "Clarke et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: meninas com TDAH têm EEG anormal (mais potência total e teta relativo), com menos variabilidade de perfil que os meninos; os autores o apresentam como o primeiro grande estudo do EEG de meninas com TDAH. 6 autores. É o estudo de meninas que a pista chamava de 'clarke2001girls ou similar'; o certo é de 2003. Outra opção, mais recente: Dupuy et al. 2014, Clin Neurophysiol 125(3):491–499, DOI 10.1016/j.clinph.2013.09.007 (EEG e atividade eletrodérmica em meninas com TDAH), conferida só no Crossref."
+  },
+  "clarke2001subtypes": {
+    "abnt": "CLARKE, A. R. et al. Electroencephalogram differences in two subtypes of attention-deficit/hyperactivity disorder. **Psychophysiology**, v. 38, n. 2, p. 212–221, 2001. DOI: 10.1111/1469-8986.3820212.",
+    "doi": "10.1111/1469-8986.3820212",
+    "url": "https://doi.org/10.1111/1469-8986.3820212",
+    "ano": 2001,
+    "autores_curto": "Clarke et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (PMID 11347867)",
+    "nota": "Sustenta: o EEG de olhos fechados difere entre os subtipos do DSM-IV (combinado × desatento) e os controles em teta, alfa, beta, nas razões teta/alfa e teta/beta e na frequência média, e os subtipos diferem entre si na atividade frontal. ESCOLHA: das duas opções da pista, fiquei com a de Psychophysiology porque compara os subtipos/apresentações clínicas do DSM-IV, que é o confundidor do artigo. A outra (subgrupos definidos pelo próprio EEG) está em clarke2001eegdefined."
+  },
+  "clarke2001eegdefined": {
+    "abnt": "CLARKE, A. R. et al. EEG-defined subtypes of children with attention-deficit/hyperactivity disorder. **Clinical Neurophysiology**, v. 112, n. 11, p. 2098–2105, 2001. DOI: 10.1016/S1388-2457(01)00668-X.",
+    "doi": "10.1016/S1388-2457(01)00668-X",
+    "url": "https://doi.org/10.1016/S1388-2457(01)00668-X",
+    "ano": 2001,
+    "autores_curto": "Clarke et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: crianças com TDAH não formam um grupo homogêneo no EEG: a análise de agrupamento achou três perfis (excesso de ondas lentas, excesso de teta de alta amplitude e excesso de beta), o que limita usar o EEG para separar TDAH de controles. Chave NOVA: alternativa da pista para subtipos, aqui como evidência de heterogeneidade."
+  },
+  "barry2007eoec": {
+    "abnt": "BARRY, R. J. et al. EEG differences between eyes-closed and eyes-open resting conditions. **Clinical Neurophysiology**, v. 118, n. 12, p. 2765–2773, 2007. DOI: 10.1016/j.clinph.2007.07.028.",
+    "doi": "10.1016/j.clinph.2007.07.028",
+    "url": "https://doi.org/10.1016/j.clinph.2007.07.028",
+    "ano": 2007,
+    "autores_curto": "Barry et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: olhos abertos e fechados dão EEG diferente em potência e topografia em todas as bandas (não só no alfa, que indexa o alerta), então a condição de repouso precisa ser considerada ao comparar estudos. 5 autores (Barry, Clarke, Johnstone, Magee, Rushby), estudo com ADULTOS jovens."
+  },
+  "barry2009eoecchildren": {
+    "abnt": "BARRY, R. J. et al. EEG differences in children between eyes-closed and eyes-open resting conditions. **Clinical Neurophysiology**, v. 120, n. 10, p. 1806–1811, 2009. DOI: 10.1016/j.clinph.2009.08.006.",
+    "doi": "10.1016/j.clinph.2009.08.006",
+    "url": "https://doi.org/10.1016/j.clinph.2009.08.006",
+    "ano": 2009,
+    "autores_curto": "Barry et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: o mesmo efeito de olhos abertos × fechados (queda da potência e mudança de topografia) aparece em CRIANÇAS. Chave NOVA: versão infantil do barry2007eoec, mais adequada à amostra do artigo. 4 autores."
+  },
+  "sander2010": {
+    "abnt": "SANDER, C. et al. EEG-vigilance and response to stimulants in paediatric patients with attention deficit/hyperactivity disorder. **Clinical Neurophysiology**, v. 121, n. 9, p. 1511–1518, 2010. DOI: 10.1016/j.clinph.2010.03.021.",
+    "doi": "10.1016/j.clinph.2010.03.021",
+    "url": "https://doi.org/10.1016/j.clinph.2010.03.021",
+    "ano": 2010,
+    "autores_curto": "Sander et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: crianças com TDAH passam menos tempo nos estágios de vigília mais alta e alternam mais entre estágios no EEG de repouso (vigilância instável), e os mais instáveis pareceram responder melhor ao estimulante (sem significância estatística; registro curto). 4 autores (Sander, Arns, Olbrich, Hegerl)."
+  },
+  "hegerl2014": {
+    "abnt": "HEGERL, U.; HENSCH, T. The vigilance regulation model of affective disorders and ADHD. **Neuroscience & Biobehavioral Reviews**, v. 44, p. 45–57, 2014. DOI: 10.1016/j.neubiorev.2012.10.008.",
+    "doi": "10.1016/j.neubiorev.2012.10.008",
+    "url": "https://doi.org/10.1016/j.neubiorev.2012.10.008",
+    "ano": 2014,
+    "autores_curto": "Hegerl e Hensch",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: modelo teórico (revisão): no TDAH (como na mania), a vigilância seria instável, com quedas rápidas para estágios de sonolência, e a hiperatividade seria uma tentativa de se manter alerta; quem fica sonolento durante o registro muda o espectro de repouso."
+  },
+  "gudmundsson2007": {
+    "abnt": "GUDMUNDSSON, S. et al. Reliability of quantitative EEG features. **Clinical Neurophysiology**, v. 118, n. 10, p. 2162–2171, 2007. DOI: 10.1016/j.clinph.2007.06.018.",
+    "doi": "10.1016/j.clinph.2007.06.018",
+    "url": "https://doi.org/10.1016/j.clinph.2007.06.018",
+    "ano": 2007,
+    "autores_curto": "Gudmundsson et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: a confiabilidade das medidas de qEEG sobe com o tamanho do trecho até cerca de 40 s; as medidas espectrais de potência são as mais confiáveis e a coerência a menos confiável, e a montagem também pesa. 5 autores; amostra de idosos."
+  },
+  "li2024retest": {
+    "abnt": "LI, N. et al. Test–retest reliability of EEG aperiodic components in resting and mental task states. **Brain Topography**, v. 37, n. 6, p. 961–971, 2024. DOI: 10.1007/s10548-024-01067-x.",
+    "doi": "10.1007/s10548-024-01067-x",
+    "url": "https://doi.org/10.1007/s10548-024-01067-x",
+    "ano": 2024,
+    "autores_curto": "Li et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: a confiabilidade teste-reteste do aperiódico vai de razoável a excelente (ICC 0,53–0,91) e melhora com mais de 3 min de dados e no repouso de olhos fechados. 4 autores (Li, Yang, Long, Lei)."
+  },
+  "mckeown2024": {
+    "abnt": "MCKEOWN, D. J. et al. Test-retest reliability of spectral parameterization by 1/f characterization using SpecParam. **Cerebral Cortex**, v. 34, n. 1, art. bhad482, 2024. DOI: 10.1093/cercor/bhad482.",
+    "doi": "10.1093/cercor/bhad482",
+    "url": "https://doi.org/10.1093/cercor/bhad482",
+    "ano": 2024,
+    "autores_curto": "McKeown et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: o expoente e o offset do SpecParam têm boa confiabilidade teste-reteste (ICC > 0,70) em adultos jovens, mas de olhos abertos o ajuste falhou em 40% dos participantes nos eletrodos não centrais. 9 autores. Online em 14/12/2023; fascículo de jan. 2024 (preprint bioRxiv de 2023). Duas opções de confiabilidade do aperiódico: esta e li2024retest."
+  },
+  "whitham2007": {
+    "abnt": "WHITHAM, E. M. et al. Scalp electrical recording during paralysis: quantitative evidence that EEG frequencies above 20 Hz are contaminated by EMG. **Clinical Neurophysiology**, v. 118, n. 8, p. 1877–1888, 2007. DOI: 10.1016/j.clinph.2007.04.027.",
+    "doi": "10.1016/j.clinph.2007.04.027",
+    "url": "https://doi.org/10.1016/j.clinph.2007.04.027",
+    "ano": 2007,
+    "autores_curto": "Whitham et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: com bloqueio neuromuscular, a potência acima de 20 Hz caiu de 10 a 200 vezes: a maior parte do EEG de escalpo acima de 20 Hz vem do músculo. 14 autores; só 2 sujeitos paralisados."
+  },
+  "muthukumaraswamy2013": {
+    "abnt": "MUTHUKUMARASWAMY, S. D. High-frequency brain activity and muscle artifacts in MEG/EEG: a review and recommendations. **Frontiers in Human Neuroscience**, v. 7, art. 138, 2013. DOI: 10.3389/fnhum.2013.00138.",
+    "doi": "10.3389/fnhum.2013.00138",
+    "url": "https://doi.org/10.3389/fnhum.2013.00138",
+    "ano": 2013,
+    "autores_curto": "Muthukumaraswamy",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + status da v2 (texto integral lido)",
+    "nota": "Sustenta: o EMG ocupa ~20–300 Hz e se sobrepõe à atividade cerebral de alta frequência; o EEG de repouso tem contaminação importante a partir de ~20 Hz, e atividade de banda larga em alta frequência é um primeiro sinal de EMG. O Crossref não traz o número do artigo; 'art. 138' vem da bib da v2 (texto lido pelo Europe PMC, PMC3625857)."
+  },
+  "goncharova2003": {
+    "abnt": "GONCHAROVA, I. I. et al. EMG contamination of EEG: spectral and topographical characteristics. **Clinical Neurophysiology**, v. 114, n. 9, p. 1580–1593, 2003. DOI: 10.1016/S1388-2457(03)00093-2.",
+    "doi": "10.1016/S1388-2457(03)00093-2",
+    "url": "https://doi.org/10.1016/S1388-2457(03)00093-2",
+    "ano": 2003,
+    "autores_curto": "Goncharova et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: mesmo uma contração fraca do frontal ou do temporal gera EMG detectável no vértex acima de ~12 Hz (às vezes acima de 8 Hz), com picos na faixa beta que imitam ritmos alfa, mu e beta em todo o escalpo. 4 autores (Goncharova, McFarland, Vaughan, Wolpaw)."
+  },
+  "plochl2012": {
+    "abnt": "PLÖCHL, M.; OSSANDÓN, J. P.; KÖNIG, P. Combining EEG and eye tracking: identification, characterization, and correction of eye movement artifacts in electroencephalographic data. **Frontiers in Human Neuroscience**, v. 6, art. 278, 2012. DOI: 10.3389/fnhum.2012.00278.",
+    "doi": "10.3389/fnhum.2012.00278",
+    "url": "https://doi.org/10.3389/fnhum.2012.00278",
+    "ano": 2012,
+    "autores_curto": "Plöchl, Ossandón e König",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: os movimentos oculares geram vários tipos de artefato (inclusive potenciais em espícula das microssacadas) que a ICA guiada por rastreamento ocular consegue identificar e remover sem afetar o sinal neural. O título completo termina em 'in electroencephalographic data' (a pista omitia). 'Art. 278' segue o padrão Frontiers (o Crossref não traz o número). Há um resumo de congresso homônimo (Biomed Tech 2012, DOI 10.1515/bmt-2012-4542) que NÃO é o artigo."
+  },
+  "piontonachini2019": {
+    "abnt": "PION-TONACHINI, L.; KREUTZ-DELGADO, K.; MAKEIG, S. ICLabel: an automated electroencephalographic independent component classifier, dataset, and website. **NeuroImage**, v. 198, p. 181–197, 2019. DOI: 10.1016/j.neuroimage.2019.05.026.",
+    "doi": "10.1016/j.neuroimage.2019.05.026",
+    "url": "https://doi.org/10.1016/j.neuroimage.2019.05.026",
+    "ano": 2019,
+    "autores_curto": "Pion-Tonachini, Kreutz-Delgado e Makeig",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: o ICLabel classifica componentes independentes (cérebro, olho, músculo, coração etc.), foi treinado em mais de 200 mil componentes de mais de 6 mil registros e iguala ou supera os classificadores automáticos anteriores."
+  },
+  "li2022mneicalabel": {
+    "abnt": "LI, A. et al. MNE-ICALabel: automatically annotating ICA components with ICLabel in Python. **Journal of Open Source Software**, v. 7, n. 76, art. 4484, 2022. DOI: 10.21105/joss.04484.",
+    "doi": "10.21105/joss.04484",
+    "url": "https://doi.org/10.21105/joss.04484",
+    "ano": 2022,
+    "autores_curto": "Li et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Sustenta: implementação do ICLabel em Python, integrada ao MNE (a ferramenta usada no pipeline). 5 autores (Li, Feitelberg, Saini, Höchenberger, Scheltienne). Artigo de software, sem resumo no PubMed; metadados só pelo Crossref."
+  },
+  "yao2019": {
+    "abnt": "YAO, D. et al. Which reference should we use for EEG and ERP practice? **Brain Topography**, v. 32, n. 4, p. 530–549, 2019. DOI: 10.1007/s10548-019-00707-x.",
+    "doi": "10.1007/s10548-019-00707-x",
+    "url": "https://doi.org/10.1007/s10548-019-00707-x",
+    "ano": 2019,
+    "autores_curto": "Yao et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: cada referência (REST, média, mastoides/orelhas ligadas, bipolar, Laplaciana) parte de uma suposição diferente e muda o sinal; a REST regularizada tem vantagem estatística sobre a referência média. 6 autores. Complementa yao2001 (método REST)."
+  },
+  "li2022harmnqeeg": {
+    "abnt": "LI, M. et al. Harmonized-Multinational qEEG norms (HarMNqEEG). **NeuroImage**, v. 256, art. 119190, 2022. DOI: 10.1016/j.neuroimage.2022.119190.",
+    "doi": "10.1016/j.neuroimage.2022.119190",
+    "url": "https://doi.org/10.1016/j.neuroimage.2022.119190",
+    "ano": 2022,
+    "autores_curto": "Li et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: com 1.564 sujeitos de 9 países, 12 equipamentos e 14 estudos, o qEEG tem 'efeitos de lote' (local e equipamento) que precisam de harmonização; o artigo dá equações normativas por idade e escores z harmonizados (serve também para NORMATIVO). Confirmado: publicado na NeuroImage em 2022 (39 autores; Lopez-Naranjo é o 3º). Preprint bioRxiv 10.1101/2022.01.12.476128."
+  },
+  "jaramillojimenez2024": {
+    "abnt": "JARAMILLO-JIMENEZ, A. et al. ComBat models for harmonization of resting-state EEG features in multisite studies. **Clinical Neurophysiology**, v. 167, p. 241–253, 2024. DOI: 10.1016/j.clinph.2024.09.019.",
+    "doi": "10.1016/j.clinph.2024.09.019",
+    "url": "https://doi.org/10.1016/j.clinph.2024.09.019",
+    "ano": 2024,
+    "autores_curto": "Jaramillo-Jimenez et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: há efeito de lote (local) nas features espectrais do EEG de repouso, inclusive no expoente e no offset aperiódicos, e os modelos ComBat o reduzem sem apagar a relação com a idade. 6 autores."
+  },
+  "shirazi2024": {
+    "abnt": "SHIRAZI, S. Y. et al. HBN-EEG: the FAIR implementation of the Healthy Brain Network (HBN) electroencephalography dataset. **bioRxiv**, 2024. Preprint. DOI: 10.1101/2024.10.03.615261. Disponível em: https://doi.org/10.1101/2024.10.03.615261. Acesso em: 8 nov. 2026.",
+    "doi": "10.1101/2024.10.03.615261",
+    "url": "https://doi.org/10.1101/2024.10.03.615261",
+    "ano": 2024,
+    "autores_curto": "Shirazi et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + API do bioRxiv",
+    "nota": "Sustenta: descreve a versão FAIR (BIDS) do EEG do HBN usada no artigo. 8 autores. Preprint (v1 03/10/2024, v2 05/10/2024); o bioRxiv não aponta versão publicada até hoje. Na dissertação a chave é shirazi2024hbneeg. O DOI do conjunto no OpenNeuro (ds005505, Release 1) é 10.18112/openneuro.ds005505, se precisar citar os dados."
+  },
+  "pertermann2019": {
+    "abnt": "PERTERMANN, M. et al. The modulation of neural noise underlies the effectiveness of methylphenidate treatment in attention-deficit/hyperactivity disorder. **Biological Psychiatry: Cognitive Neuroscience and Neuroimaging**, v. 4, n. 8, p. 743–750, 2019. DOI: 10.1016/j.bpsc.2019.03.011.",
+    "doi": "10.1016/j.bpsc.2019.03.011",
+    "url": "https://doi.org/10.1016/j.bpsc.2019.03.011",
+    "ano": 2019,
+    "autores_curto": "Pertermann et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: crianças com TDAH têm mais ruído neural 1/f ('pink noise') que os controles numa tarefa Go/NoGo, e o metilfenidato o reduz ao nível dos controles. 4 autores (Pertermann, Bluschke, Roessner, Beste). A pista dizia 'On the modulation of neural noise in ADHD…'; o título correto é o acima. ATENÇÃO: é EEG de TAREFA (NoGo), não de repouso. Para repouso, robertson2019 (já no JSON) trata do slope aperiódico e da exposição a estimulantes."
+  },
+  "shephard2018": {
+    "abnt": "SHEPHARD, E. et al. Resting-state neurophysiological activity patterns in young people with ASD, ADHD, and ASD + ADHD. **Journal of Autism and Developmental Disorders**, v. 48, n. 1, p. 110–122, 2018. DOI: 10.1007/s10803-017-3300-4.",
+    "doi": "10.1007/s10803-017-3300-4",
+    "url": "https://doi.org/10.1007/s10803-017-3300-4",
+    "ano": 2018,
+    "autores_curto": "Shephard et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: no EEG de repouso, o TEA reduz teta e alfa e o TDAH reduz delta; o grupo TEA + TDAH soma em grande parte os dois perfis, ou seja, a comorbidade muda o espectro. 7 autores. Online em 13/09/2017; fascículo de jan. 2018."
+  },
+  "lauzhu2019": {
+    "abnt": "LAU-ZHU, A.; FRITZ, A.; MCLOUGHLIN, G. Overlaps and distinctions between attention deficit/hyperactivity disorder and autism spectrum disorder in young adulthood: systematic review and guiding framework for EEG-imaging research. **Neuroscience & Biobehavioral Reviews**, v. 96, p. 93–115, 2019. DOI: 10.1016/j.neubiorev.2018.10.009.",
+    "doi": "10.1016/j.neubiorev.2018.10.009",
+    "url": "https://doi.org/10.1016/j.neubiorev.2018.10.009",
+    "ano": 2019,
+    "autores_curto": "Lau-Zhu, Fritz e McLoughlin",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API + PubMed (resumo)",
+    "nota": "Sustenta: revisão sistemática (75 artigos) que mostra perfis de EEG sobrepostos e específicos entre TDAH e TEA, sem estudos na faixa que comparem os dois diretamente ou considerem o diagnóstico duplo. Limite: jovens adultos (16–26 anos) e foco em ERP de tarefa; para crianças em repouso, preferir shephard2018."
+  },
+  "hagemann2008": {
+    "abnt": "HAGEMANN, D. et al. Skull thickness and magnitude of EEG alpha activity. **Clinical Neurophysiology**, v. 119, n. 6, p. 1271–1280, 2008. DOI: 10.1016/j.clinph.2008.02.010.",
+    "doi": "10.1016/j.clinph.2008.02.010",
+    "url": "https://doi.org/10.1016/j.clinph.2008.02.010",
+    "ano": 2008,
+    "autores_curto": "Hagemann et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "4 autores (Hagemann, Hewig, Walter, Naumann). Sustenta: a espessura do crânio se relaciona com a magnitude do alfa medida no escalpo, isto é, parte da diferença de amplitude entre pessoas é condução."
+  },
+  "schisterman2009": {
+    "abnt": "SCHISTERMAN, E. F.; COLE, S. R.; PLATT, R. W. Overadjustment bias and unnecessary adjustment in epidemiologic studies. **Epidemiology**, v. 20, n. 4, p. 488–495, 2009. DOI: 10.1097/EDE.0b013e3181a819a1.",
+    "doi": "10.1097/EDE.0b013e3181a819a1",
+    "url": "https://doi.org/10.1097/EDE.0b013e3181a819a1",
+    "ano": 2009,
+    "autores_curto": "Schisterman, Cole e Platt",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Sustenta: ajustar por uma variável que está no caminho causal (ou descende dele) enviesa o efeito, em geral para o nulo (viés de sobreajuste)."
+  },
+  "altman1995": {
+    "abnt": "ALTMAN, D. G.; BLAND, J. M. Statistics notes: absence of evidence is not evidence of absence. **BMJ**, v. 311, n. 7003, p. 485, 1995. DOI: 10.1136/bmj.311.7003.485.",
+    "doi": "10.1136/bmj.311.7003.485",
+    "url": "https://doi.org/10.1136/bmj.311.7003.485",
+    "ano": 1995,
+    "autores_curto": "Altman e Bland",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Sustenta: não encontrar efeito não prova que ele não exista; depende do poder."
+  },
+  "greenland1999": {
+    "abnt": "GREENLAND, S.; PEARL, J.; ROBINS, J. M. Causal diagrams for epidemiologic research. **Epidemiology**, v. 10, n. 1, p. 37–48, 1999. DOI: 10.1097/00001648-199901000-00008.",
+    "doi": "10.1097/00001648-199901000-00008",
+    "url": "https://doi.org/10.1097/00001648-199901000-00008",
+    "ano": 1999,
+    "autores_curto": "Greenland, Pearl e Robins",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Sustenta: diagramas causais decidem quais variáveis ajustar (confundidor × mediador × colisor)."
+  },
+  "power2012": {
+    "abnt": "POWER, J. D. et al. Spurious but systematic correlations in functional connectivity MRI networks arise from subject motion. **NeuroImage**, v. 59, n. 3, p. 2142–2154, 2012. DOI: 10.1016/j.neuroimage.2011.10.018.",
+    "doi": "10.1016/j.neuroimage.2011.10.018",
+    "url": "https://doi.org/10.1016/j.neuroimage.2011.10.018",
+    "ano": 2012,
+    "autores_curto": "Power et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "5 autores. Sustenta: o movimento produz correlações espúrias e sistemáticas na conectividade."
+  },
+  "parker2007": {
+    "abnt": "PARKER, B. J.; GÜNTER, S.; BEDO, J. Stratification bias in low signal microarray studies. **BMC Bioinformatics**, v. 8, art. 326, 2007. DOI: 10.1186/1471-2105-8-326.",
+    "doi": "10.1186/1471-2105-8-326",
+    "url": "https://doi.org/10.1186/1471-2105-8-326",
+    "ano": 2007,
+    "autores_curto": "Parker, Günter e Bedo",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Sustenta: validação cruzada estratificada sem sinal produz AUC/acurácia abaixo do acaso."
+  },
+  "gelman2006": {
+    "abnt": "GELMAN, A.; STERN, H. The difference between \"significant\" and \"not significant\" is not itself statistically significant. **The American Statistician**, v. 60, n. 4, p. 328–331, 2006. DOI: 10.1198/000313006X152649.",
+    "doi": "10.1198/000313006X152649",
+    "url": "https://doi.org/10.1198/000313006X152649",
+    "ano": 2006,
+    "autores_curto": "Gelman e Stern",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Sustenta: comparar \"significativo\" com \"não significativo\" não testa a diferença entre os grupos."
+  },
+  "ransohoff1978": {
+    "abnt": "RANSOHOFF, D. F.; FEINSTEIN, A. R. Problems of spectrum and bias in evaluating the efficacy of diagnostic tests. **New England Journal of Medicine**, v. 299, n. 17, p. 926–930, 1978. DOI: 10.1056/NEJM197810262991705.",
+    "doi": "10.1056/NEJM197810262991705",
+    "url": "https://doi.org/10.1056/NEJM197810262991705",
+    "ano": 1978,
+    "autores_curto": "Ransohoff e Feinstein",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Sustenta: comparar doentes claros com saudáveis (viés de espectro) infla a acurácia de um teste."
+  },
+  "benjamini1995": {
+    "abnt": "BENJAMINI, Y.; HOCHBERG, Y. Controlling the false discovery rate: a practical and powerful approach to multiple testing. **Journal of the Royal Statistical Society: Series B**, v. 57, n. 1, p. 289–300, 1995. DOI: 10.1111/j.2517-6161.1995.tb02031.x.",
+    "doi": "10.1111/j.2517-6161.1995.tb02031.x",
+    "url": "https://doi.org/10.1111/j.2517-6161.1995.tb02031.x",
+    "ano": 1995,
+    "autores_curto": "Benjamini e Hochberg",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Sustenta: controle da taxa de falsas descobertas em testes múltiplos."
+  },
+  "arsigny2007": {
+    "abnt": "ARSIGNY, V. et al. Geometric means in a novel vector space structure on symmetric positive-definite matrices. **SIAM Journal on Matrix Analysis and Applications**, v. 29, n. 1, p. 328–347, 2007. DOI: 10.1137/050637996.",
+    "doi": "10.1137/050637996",
+    "url": "https://doi.org/10.1137/050637996",
+    "ano": 2007,
+    "autores_curto": "Arsigny et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "4 autores (Arsigny, Fillard, Pennec, Ayache). Sustenta: a métrica log-euclidiana como aproximação barata da afim-invariante, com só parte das suas invariâncias."
+  },
+  "gramfort2013": {
+    "abnt": "GRAMFORT, A. et al. MEG and EEG data analysis with MNE-Python. **Frontiers in Neuroscience**, v. 7, art. 267, 2013. DOI: 10.3389/fnins.2013.00267.",
+    "doi": "10.3389/fnins.2013.00267",
+    "url": "https://doi.org/10.3389/fnins.2013.00267",
+    "ano": 2013,
+    "autores_curto": "Gramfort et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Software/método usado no pipeline."
+  },
+  "harris2020": {
+    "abnt": "HARRIS, C. R. et al. Array programming with NumPy. **Nature**, v. 585, n. 7825, p. 357–362, 2020. DOI: 10.1038/s41586-020-2649-2.",
+    "doi": "10.1038/s41586-020-2649-2",
+    "url": "https://doi.org/10.1038/s41586-020-2649-2",
+    "ano": 2020,
+    "autores_curto": "Harris et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Software/método usado no pipeline."
+  },
+  "virtanen2020": {
+    "abnt": "VIRTANEN, P. et al. SciPy 1.0: fundamental algorithms for scientific computing in Python. **Nature Methods**, v. 17, n. 3, p. 261–272, 2020. DOI: 10.1038/s41592-019-0686-2.",
+    "doi": "10.1038/s41592-019-0686-2",
+    "url": "https://doi.org/10.1038/s41592-019-0686-2",
+    "ano": 2020,
+    "autores_curto": "Virtanen et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Software/método usado no pipeline."
+  },
+  "pernet2020": {
+    "abnt": "PERNET, C. et al. Issues and recommendations from the OHBM COBIDAS MEEG committee for reproducible EEG and MEG research. **Nature Neuroscience**, v. 23, n. 12, p. 1473–1483, 2020. DOI: 10.1038/s41593-020-00709-0.",
+    "doi": "10.1038/s41593-020-00709-0",
+    "url": "https://doi.org/10.1038/s41593-020-00709-0",
+    "ano": 2020,
+    "autores_curto": "Pernet et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Software/método usado no pipeline."
+  },
+  "bigdelyshamlo2015": {
+    "abnt": "BIGDELY-SHAMLO, N. et al. The PREP pipeline: standardized preprocessing for large-scale EEG analysis. **Frontiers in Neuroinformatics**, v. 9, art. 16, 2015. DOI: 10.3389/fninf.2015.00016.",
+    "doi": "10.3389/fninf.2015.00016",
+    "url": "https://doi.org/10.3389/fninf.2015.00016",
+    "ano": 2015,
+    "autores_curto": "Bigdely-Shamlo et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Software/método usado no pipeline."
+  },
+  "welch1967": {
+    "abnt": "WELCH, P. D. The use of fast Fourier transform for the estimation of power spectra: a method based on time averaging over short, modified periodograms. **IEEE Transactions on Audio and Electroacoustics**, v. 15, n. 2, p. 70–73, 1967. DOI: 10.1109/TAU.1967.1161901.",
+    "doi": "10.1109/TAU.1967.1161901",
+    "url": "https://doi.org/10.1109/TAU.1967.1161901",
+    "ano": 1967,
+    "autores_curto": "Welch",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Software/método usado no pipeline."
+  },
+  "lee1999": {
+    "abnt": "LEE, T.-W.; GIROLAMI, M.; SEJNOWSKI, T. J. Independent component analysis using an extended infomax algorithm for mixed subgaussian and supergaussian sources. **Neural Computation**, v. 11, n. 2, p. 417–441, 1999. DOI: 10.1162/089976699300016719.",
+    "doi": "10.1162/089976699300016719",
+    "url": "https://doi.org/10.1162/089976699300016719",
+    "ano": 1999,
+    "autores_curto": "Lee, Girolami e Sejnowski",
+    "verificada": true,
+    "fonte_verificacao": "Crossref API",
+    "nota": "Software/método usado no pipeline."
+  },
+  "pedregosa2011": {
+    "abnt": "PEDREGOSA, F. et al. Scikit-learn: machine learning in Python. **Journal of Machine Learning Research**, v. 12, p. 2825–2830, 2011.",
+    "doi": "",
+    "url": "https://jmlr.org/papers/v12/pedregosa11a.html",
+    "ano": 2011,
+    "autores_curto": "Pedregosa et al.",
+    "verificada": true,
+    "fonte_verificacao": "citação oficial da biblioteca (JMLR, sem DOI)",
+    "nota": "Software usado no pipeline."
+  },
+  "galvani1791": {
+    "abnt": "GALVANI, L. De viribus electricitatis in motu musculari commentarius. **De Bononiensi Scientiarum et Artium Instituto atque Academia Commentarii**, Bononiae, t. 7, p. 363–418, 1791.",
+    "doi": "",
+    "url": "",
+    "ano": 1791,
+    "autores_curto": "Galvani",
+    "verificada": true,
+    "fonte_verificacao": "Garrison-Morton (historyofmedicine.com/id/413); Columbia e Linda Hall",
+    "nota": "Intervalo de páginas não comparado com o fac-símile."
+  },
+  "gibbs1935": {
+    "abnt": "GIBBS, F. A.; DAVIS, H.; LENNOX, W. G. The electro-encephalogram in epilepsy and in conditions of impaired consciousness. **Archives of Neurology and Psychiatry**, v. 34, n. 6, p. 1133–1148, 1935. DOI: 10.1001/archneurpsyc.1935.02250240002001.",
+    "doi": "10.1001/archneurpsyc.1935.02250240002001",
+    "url": "https://doi.org/10.1001/archneurpsyc.1935.02250240002001",
+    "ano": 1935,
+    "autores_curto": "Gibbs, Davis e Lennox",
+    "verificada": true,
+    "fonte_verificacao": "Crossref (DOI, revista, volume); coautores por Thieme/Scilit",
+    "nota": ""
+  },
+  "walter1936": {
+    "abnt": "WALTER, W. G. The location of cerebral tumours by electro-encephalography. **The Lancet**, v. 228, n. 5893, p. 305–308, 1936. DOI: 10.1016/S0140-6736(01)05173-X.",
+    "doi": "10.1016/S0140-6736(01)05173-X",
+    "url": "https://doi.org/10.1016/S0140-6736(01)05173-X",
+    "ano": 1936,
+    "autores_curto": "Walter",
+    "verificada": true,
+    "fonte_verificacao": "Crossref",
+    "nota": ""
+  },
+  "walter1951": {
+    "abnt": "WALTER, W. G.; SHIPTON, H. W. A new toposcopic display system. **Electroencephalography and Clinical Neurophysiology**, v. 3, n. 3, p. 281–292, 1951. DOI: 10.1016/0013-4694(51)90074-0.",
+    "doi": "10.1016/0013-4694(51)90074-0",
+    "url": "https://doi.org/10.1016/0013-4694(51)90074-0",
+    "ano": 1951,
+    "autores_curto": "Walter e Shipton",
+    "verificada": true,
+    "fonte_verificacao": "Crossref",
+    "nota": ""
+  },
+  "jasper1938": {
+    "abnt": "JASPER, H. H.; SOLOMON, P.; BRADLEY, C. Electroencephalographic analyses of behavior problem children. **American Journal of Psychiatry**, v. 95, n. 3, p. 641–658, 1938. DOI: 10.1176/ajp.95.3.641.",
+    "doi": "10.1176/ajp.95.3.641",
+    "url": "https://doi.org/10.1176/ajp.95.3.641",
+    "ano": 1938,
+    "autores_curto": "Jasper, Solomon e Bradley",
+    "verificada": true,
+    "fonte_verificacao": "Crossref",
+    "nota": ""
+  },
+  "stonehughes2013": {
+    "abnt": "STONE, J. L.; HUGHES, J. R. Early history of electroencephalography and establishment of the American Clinical Neurophysiology Society. **Journal of Clinical Neurophysiology**, v. 30, n. 1, p. 28–44, 2013. DOI: 10.1097/WNP.0b013e31827edb2d.",
+    "doi": "10.1097/WNP.0b013e31827edb2d",
+    "url": "https://doi.org/10.1097/WNP.0b013e31827edb2d",
+    "ano": 2013,
+    "autores_curto": "Stone e Hughes",
+    "verificada": true,
+    "fonte_verificacao": "Crossref; PubMed 23377440",
+    "nota": ""
+  },
+  "fda2013neba": {
+    "abnt": "FOOD AND DRUG ADMINISTRATION (Estados Unidos). **De novo classification request for Neuropsychiatric EEG-Based Assessment Aid for ADHD (NEBA) System**: K112711 / DEN110019. [S. l.]: FDA, 2013. Disponível em: https://www.accessdata.fda.gov/cdrh_docs/reviews/K112711.pdf. Acesso em: 8 nov. 2026.",
+    "doi": "",
+    "url": "",
+    "ano": 2013,
+    "autores_curto": "FDA",
+    "verificada": true,
+    "fonte_verificacao": "Base De Novo da FDA (DEN110019) e PDF K112711",
+    "nota": ""
+  },
+  "roy2019": {
+    "abnt": "ROY, Y. et al. Deep learning-based electroencephalography analysis: a systematic review. **Journal of Neural Engineering**, v. 16, n. 5, art. 051001, 2019. DOI: 10.1088/1741-2552/ab260c.",
+    "doi": "10.1088/1741-2552/ab260c",
+    "url": "https://doi.org/10.1088/1741-2552/ab260c",
+    "ano": 2019,
+    "autores_curto": "Roy et al.",
+    "verificada": true,
+    "fonte_verificacao": "Crossref",
+    "nota": ""
+  }
+}

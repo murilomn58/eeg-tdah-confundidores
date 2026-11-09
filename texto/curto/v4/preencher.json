@@ -1,0 +1,5 @@
+{
+ "N_ARQ": "21",
+ "N_LOC": "3.558",
+ "VALIDACAO": "O pré-processamento foi reescrito num módulo único e reproduz o conjunto original de 19 canais a 128 Hz no HBN e no TDBRAIN (r > 0,9999 por canal); no adhdata, cujo arquivo bruto não estava disponível na revalidação, as características recalculadas a partir do conjunto pré-processado reproduzem os efeitos de grupo publicados em todas as variantes de processamento (diferença absoluta no g menor que 0,0001)."
+}

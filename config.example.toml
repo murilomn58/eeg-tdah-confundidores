@@ -1,0 +1,13 @@
+pacote_dir = "/caminho/para/pacote/dados"
+saida_dir = "/caminho/para/saida_sob_DUA"
+adhdata_csv = "/caminho/para/adhdata.csv"
+tdbrain_dir = "/caminho/para/TDBRAIN_Dataset_V3_1"
+tdbrain_xlsx = "/caminho/para/TDBRAIN_participants_V3.1.xlsx"
+hbn_dir = "/caminho/para/hbn/zarr_rest19"
+hbn_fenotipo_csv = "/caminho/para/hbn_fenotipo/diagnosticos.csv"
+hbn_sintomas_csv = "/caminho/para/hbn_fenotipo/escalas.csv"
+mapa_ids_csv = "/caminho/para/saida_sob_DUA/pacote_mapa_ids.csv"
+meu_banco_csv = "/caminho/para/meus_registros/lista.csv"
+meu_banco_bloco = "meu_banco"
+meu_banco_rede = 60
+meu_banco_mapa = ""

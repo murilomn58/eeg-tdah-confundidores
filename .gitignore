@@ -1,0 +1,13 @@
+*.npz
+*_pipeline.csv
+pacote_mapa_ids.csv
+divisao_hbn_DR.csv
+tdbrain_lote.csv
+hbncofre*
+_por_participante_DUA/
+*.log
+config.toml
+.venv/
+__pycache__/
+*.docx
+texto/curto/v4/crop_*

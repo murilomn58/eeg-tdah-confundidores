@@ -1,0 +1,16 @@
+{
+  "title": "eeg-tdah-confundidores",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Narciso, Murilo Miguel",
+      "orcid": "0009-0008-6954-1784",
+      "affiliation": "Instituto Tecnológico de Aeronáutica (ITA)"
+    }
+  ],
+  "description": "Código do artigo sobre confundidores de amostra, artefato e processamento em características de EEG para TDAH (expoente aperiódico, pico alfa, TBR e família espacial) em três bancos públicos: adhdata, Healthy Brain Network e TDBRAIN. Inclui pré-processamento, extração de características, ensaios, replicações pré-registradas, figuras e montagem do documento. Não inclui dados por participante.",
+  "license": "MIT",
+  "version": "1.0.0",
+  "language": "por",
+  "keywords": ["EEG", "TDAH", "ADHD", "confundidores", "artefato", "expoente aperiódico", "FOOOF", "espaço tangente", "reprodutibilidade"]
+}

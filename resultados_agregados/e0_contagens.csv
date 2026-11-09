@@ -1,0 +1,91 @@
+banco,variavel,nivel,n
+hbn_TDAH,subtipo,desatento,603
+hbn_TDAH,subtipo,combinado,584
+hbn_TDAH,subtipo,hiperativo,88
+hbn_TDAH,subtipo,sem_F90,79
+hbn_TDAH,n_comorb,1,391
+hbn_TDAH,n_comorb,3,379
+hbn_TDAH,n_comorb,0,300
+hbn_TDAH,n_comorb,2,284
+hbn_TDAH,amp_pos,nan,1014
+hbn_TDAH,amp_pos,0.0,318
+hbn_TDAH,amp_pos,1.0,22
+hbn_TDAH,sexo,M,975
+hbn_TDAH,sexo,F,379
+hbn_TDAH,comorb_ansiedade,0,859
+hbn_TDAH,comorb_ansiedade,1,495
+hbn_TDAH,comorb_tea,0,1105
+hbn_TDAH,comorb_tea,1,249
+hbn_TDAH,comorb_aprend,0,1024
+hbn_TDAH,comorb_aprend,1,330
+hbn_TDAH,comorb_humor,0,1250
+hbn_TDAH,comorb_humor,1,104
+hbn_TDAH,swan_presente,True,1354
+hbn_controle,subtipo,sem_F90,179
+hbn_controle,n_comorb,0,179
+hbn_controle,amp_pos,nan,135
+hbn_controle,amp_pos,0.0,44
+hbn_controle,sexo,M,107
+hbn_controle,sexo,F,72
+hbn_controle,comorb_ansiedade,0,179
+hbn_controle,comorb_tea,0,179
+hbn_controle,comorb_aprend,0,179
+hbn_controle,comorb_humor,0,179
+hbn_controle,swan_presente,True,179
+tdbrain_TDAH,ADHD_pre_Att_leading,nan,54
+tdbrain_TDAH,ADHD_pre_Att_leading,9.0,9
+tdbrain_TDAH,ADHD_pre_Att_leading,8.0,9
+tdbrain_TDAH,ADHD_pre_Att_leading,7.0,7
+tdbrain_TDAH,ADHD_pre_Att_leading,5.0,6
+tdbrain_TDAH,ADHD_pre_Att_leading,outros: 4.0 + 7.5 + 3.0 + 6.0,10
+tdbrain_TDAH,ADHD_pre_Hyp_leading,nan,54
+tdbrain_TDAH,ADHD_pre_Hyp_leading,7.0,9
+tdbrain_TDAH,ADHD_pre_Hyp_leading,5.0,6
+tdbrain_TDAH,ADHD_pre_Hyp_leading,4.0,6
+tdbrain_TDAH,ADHD_pre_Hyp_leading,6.0,5
+tdbrain_TDAH,ADHD_pre_Hyp_leading,3.0,5
+tdbrain_TDAH,ADHD_pre_Hyp_leading,outros: 2.0 + 9.0 + 1.0 + 8.0,10
+tdbrain_TDAH,coffee,9.0,32
+tdbrain_TDAH,coffee,99.0,24
+tdbrain_TDAH,coffee,4.0,14
+tdbrain_TDAH,coffee,3.0,7
+tdbrain_TDAH,coffee,5.0,6
+tdbrain_TDAH,coffee,outros: 7.0 + 8.0 + 6.0 + 2.0 + 1.0,12
+tdbrain_TDAH,cigarette,99.0,62
+tdbrain_TDAH,cigarette,9.0,13
+tdbrain_TDAH,cigarette,4.0,8
+tdbrain_TDAH,cigarette,3.0,6
+tdbrain_TDAH,cigarette,outros: 2.0 + 5.0,6
+tdbrain_TDAH,drugs,99.0,74
+tdbrain_TDAH,drugs,0.0,9
+tdbrain_TDAH,drugs,15.0,7
+tdbrain_TDAH,drugs,outros: 7.0 + 13.0 + 10.0,5
+tdbrain_TDAH,sleep,7.0,43
+tdbrain_TDAH,sleep,5.0,33
+tdbrain_TDAH,sleep,outros: 3.0 + 1.0 + 9.0,19
+tdbrain_TDAH,Dataset,nan,54
+tdbrain_TDAH,Dataset,ADHD_NF,41
+tdbrain_TDAH,subestudo_nf,0,54
+tdbrain_TDAH,subestudo_nf,1,41
+tdbrain_controle,ADHD_pre_Att_leading,nan,175
+tdbrain_controle,ADHD_pre_Hyp_leading,nan,175
+tdbrain_controle,coffee,9.0,53
+tdbrain_controle,coffee,99.0,38
+tdbrain_controle,coffee,3.0,33
+tdbrain_controle,coffee,4.0,27
+tdbrain_controle,coffee,5.0,9
+tdbrain_controle,coffee,6.0,5
+tdbrain_controle,coffee,outros: 1.0 + 7.0 + 2.0 + 8.0,10
+tdbrain_controle,cigarette,99.0,145
+tdbrain_controle,cigarette,9.0,14
+tdbrain_controle,cigarette,3.0,7
+tdbrain_controle,cigarette,outros: 7.0 + 5.0 + 2.0 + 4.0,9
+tdbrain_controle,drugs,nan,128
+tdbrain_controle,drugs,0.0,30
+tdbrain_controle,drugs,outros: 15.0 + 99.0,17
+tdbrain_controle,sleep,7.0,106
+tdbrain_controle,sleep,5.0,40
+tdbrain_controle,sleep,9.0,23
+tdbrain_controle,sleep,outros: 13.0 + 3.0,6
+tdbrain_controle,Dataset,nan,175
+tdbrain_controle,subestudo_nf,0,175

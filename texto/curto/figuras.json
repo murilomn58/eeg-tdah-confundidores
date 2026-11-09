@@ -1,0 +1,14 @@
+{
+ "tabuleiro": {
+  "arquivo": "F1_tabuleiro.png",
+  "titulo": "Tabuleiro de variáveis: quanto cada característica depende da amostra, dos artefatos e do processamento, em cada banco",
+  "fonte": "Elaborada pelos autores. Cada coluna é uma característica (χ: expoente aperiódico, global ou da região posterior); cada linha, uma variável; os três quadradinhos de cada casa são adhdata (a, tarefa), HBN (H) e TDBRAIN (T), de olhos fechados, com o valor escrito dentro (sem o zero à esquerda). Amostra e artefato: correlação de Spearman nos controles (verde |ρ| < 0,2; amarelo 0,2–0,4; vermelho ≥ 0,4); na coluna espacial, ρ da distância ao centro dos controles. Processamento: mudança no g de Hedges ajustado ao trocar a base pela variante (verde |Δg| < 0,10; amarelo 0,10–0,20; vermelho ≥ 0,20); espacial: mudança na AUC (0,03 e 0,07). Diagnóstico: g de Hedges ajustado por idade, idade², sexo, idade × sexo e duração (espacial: AUC), em azul-escuro quando o IC 95 % exclui zero (espacial: AUC ≥ 0,60). Cinza: não disponível (o adhdata não tem idade e sexo por participante; a covariância não foi recalculada com a referência nativa); hachurado: não se aplica. A cor segue o valor exato, antes do arredondamento.",
+  "largura_cm": 16.0
+ },
+ "duas_metades": {
+  "arquivo": "F2_duas_metades.png",
+  "titulo": "As duas metades de um confundidor: desequilíbrio entre os grupos e efeito do ajuste",
+  "fonte": "Elaborada pelos autores. (A) Diferença padronizada (TDAH − controle, sem ajuste) de cada fator em cada banco e estado; faixa cinza: |d| < 0,1; n/d: o adhdata não tem idade e sexo por participante. (B) g de Hedges do expoente, do offset e da potência do pico alfa com três conjuntos de covariáveis; barras: IC 95 % por bootstrap (300 reamostragens); ponto cheio: IC exclui zero. OF: olhos fechados; OA: olhos abertos.",
+  "largura_cm": 16.0
+ }
+}

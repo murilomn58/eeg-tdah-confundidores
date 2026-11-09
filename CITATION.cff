@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Se usar este código, cite-o pelos metadados abaixo."
+title: "eeg-tdah-confundidores"
+abstract: "Código do artigo sobre confundidores de amostra, artefato e processamento em características de EEG para TDAH em três bancos públicos (adhdata, HBN e TDBRAIN)."
+authors:
+  - family-names: "Narciso"
+    given-names: "Murilo Miguel"
+    orcid: "https://orcid.org/0009-0008-6954-1784"
+    affiliation: "Instituto Tecnológico de Aeronáutica (ITA)"
+version: 1.0.0
+date-released: 2026-11-09
+license: MIT
+repository-code: "https://github.com/murilomn58/eeg-tdah-confundidores"
+keywords:
+  - EEG
+  - TDAH
+  - ADHD
+  - confundidores
+  - expoente aperiódico
+  - espaço tangente

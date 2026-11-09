@@ -1,0 +1,50 @@
+{
+ "linha_do_tempo": {
+  "arquivo": "F1_linha_do_tempo_v2.png",
+  "titulo": "Evolução do EEG: da bioeletricidade ao EEG quantitativo",
+  "fonte": "Elaborada pelos autores a partir de [@galvani1791; @caton1875; @berger1929; @adrian1934; @gibbs1935; @walter1936; @walter1951; @jasper1938; @stonehughes2013; @jasper1958; @fda2013neba; @arns2013; @roy2019]. Em laranja, os marcos ligados ao TDAH. Imagens: traçado do primeiro EEG humano, Berger (1929), domínio público (Wikimedia Commons, 1st-eeg.png); touca de EEG, Chris Hope, licença CC BY 2.0, recortada (Wikimedia Commons, EEG_Recording_Cap.jpg); diagrama do sistema 10–20 elaborado pelos autores.",
+  "largura_cm": 16.0
+ },
+ "mapa_confundidores": {
+  "arquivo": "F3_mapa_confundidores.png",
+  "titulo": "Impressão digital dos confundidores de cada família de características",
+  "fonte": "Elaborada pelos autores. Como ler: cada célula é a correlação de Spearman entre a característica (linha) e o confundidor candidato (coluna), calculada apenas nos controles, sem o diagnóstico. Números em negrito: IC 95 % por bootstrap exclui zero; esmaecidos: IC inclui zero. A IAF (centro de gravidade) e a TBR (sem o Cz) seguem as definições do pipeline principal e diferem das da Figura 6, que usa o pico do FOOOF. Acima da linha horizontal, a família espectral; abaixo, dois resumos da família espacial sem uso do rótulo. n/d: o adhdata não tem idade e sexo por participante.",
+  "largura_cm": 16.5
+ },
+ "aquisicao_tdbrain": {
+  "arquivo": "F5_espacial_aquisicao_tdbrain.png",
+  "titulo": "Família espacial no TDBRAIN: o ganho resiste aos controles, mas carrega a aquisição",
+  "fonte": "Elaborada pelos autores. (A) AUC por participante de cada modelo sob cada controle (95 TDAH × 175 controles; 63 × 165 no lote de 121 s). As linhas superiores usam o espaço tangente; a assinatura não cerebral usa só variância total, razão borda/internos e razão de alta frequência, e existe só de olhos fechados; a base C0 usa só idade, idade², sexo, idade × sexo e duração. Linhas marcadas com (pré-registrada) vêm de uma análise pré-registrada anterior. (B) AUC com que o espaço tangente prevê o lote de gravação de 121 s dentro de cada grupo (análise pré-registrada anterior).",
+  "largura_cm": 16.0
+ },
+ "pareados": {
+  "arquivo": "F4_subconjuntos_pareados.png",
+  "titulo": "Classificação do TDAH no HBN em subconjuntos em que só um fator varia (olhos fechados)",
+  "fonte": "Elaborada pelos autores. Como ler: cada símbolo é a AUC média de 40 sorteios de pareamento 1:1 (mesmo sexo, idade ±0,5 ano); a barra vai do percentil 2,5 ao 97,5 dos sorteios. A faixa cinza é a faixa de 5 % a 95 % do mesmo procedimento com rótulos permutados. Um resultado só indica sinal quando fica à direita da faixa cinza, que junta os cinco modelos de cada desenho. \"Desatento × combinado\" compara as duas apresentações dentro do grupo TDAH, sem controles.",
+  "largura_cm": 15.0
+ },
+ "referencia": {
+  "arquivo": "R0_referencia.png",
+  "titulo": "A referência de registro cria um efeito do expoente no TDBRAIN",
+  "fonte": "Elaborada pelos autores (análise pré-registrada anterior; expoente global, ajuste de 1 a 40 Hz). Como ler: g de Hedges do expoente (TDAH menos controle) com IC 95 %, por bloco e referência. Nas crianças, as quatro referências concordam; no TDBRAIN (faixa cinza), só a referência nativa dá efeito positivo, com IC excluindo zero apenas de olhos fechados.",
+  "largura_cm": 15.0
+ },
+ "vazamento": {
+  "arquivo": "V1_vazamento_artigo.png",
+  "titulo": "O protocolo de avaliação pode produzir AUC sem sinal",
+  "fonte": "Elaborada pelos autores, a partir da reprodução do protocolo de TaghiBeyglou et al. [@taghibeyglou2020]. (A) Ponto cheio: AUC com o rótulo real; vazado: com o rótulo permutado; nos protocolos com métrica por época, a AUC é calculada por época, e não por participante; linha tracejada: acurácia publicada. (B) Quanto cada vazamento altera a AUC quando ligado, em média nos quatro blocos, sem sinal (vermelho) e com o rótulo real (verde). Dados de uma análise pré-registrada anterior, com cinco sementes.",
+  "largura_cm": 16.0
+ },
+ "troendle": {
+  "arquivo": "R1_espectro_idade_troendle2022.png",
+  "titulo": "Replicação de Tröndle et al.: o espectro muda com a idade nas crianças",
+  "fonte": "Elaborada pelos autores, a partir dos controles de cada banco; curva tracejada digitalizada de Tröndle et al. [@trondle2022]. Acima: espectro médio (log10) dos 20 % mais novos e dos 20 % mais velhos, nos canais posteriores (P3, Pz, P4, O1 e O2), com CAR; 36 controles em cada grupo no HBN e 36 e 35 no TDBRAIN. Abaixo: diferença entre eles; \"forma\" é a correlação com a diferença publicada. Dados de uma análise pré-registrada anterior; o adhdata não entra porque não tem idade por participante.",
+  "largura_cm": 16.0
+ },
+ "tabuleiro": {
+  "arquivo": "F_tabuleiro_OF_num_cid.png",
+  "titulo": "Tabuleiro de variáveis: sensibilidade de cada característica à amostra, aos artefatos e ao processamento, nos três bancos",
+  "fonte": "Elaborada pelos autores. Como ler: cada coluna é uma característica (χ: expoente aperiódico, global ou da região posterior); cada linha, uma variável. Em cada casa, os três quadradinhos são adhdata (a, tarefa), HBN (H) e TDBRAIN (T), de olhos fechados, e o número dentro de cada um é o valor, com sinal e sem o zero à esquerda. Amostra e artefato: correlação de Spearman nos controles (verde |ρ| < 0,2; amarelo 0,2–0,4; vermelho ≥ 0,4); na coluna espacial, o ρ é o da distância ao centro dos controles, e a cor segue o valor exato, antes do arredondamento. Processamento: mudança no g de Hedges ajustado do TDAH ao trocar a base pela variante (verde |Δg| < 0,10; amarelo 0,10–0,20; vermelho ≥ 0,20); para a família espacial, mudança na AUC (0,03 e 0,07). Diagnóstico: g de Hedges ajustado por idade, idade², sexo, idade × sexo e duração (espacial: AUC do classificador), em azul-escuro quando o IC 95 % exclui zero (espacial: AUC ≥ 0,60); a primeira linha compara todo o grupo TDAH com os controles, e as três seguintes, só no HBN, cada apresentação da CID-10-CM com os mesmos controles. Cinza: não disponível (o adhdata não tem idade e sexo por participante; o adhdata e o TDBRAIN não codificam a apresentação; a covariância não foi recalculada com a referência nativa); hachurado: não se aplica. A ICA muscular foi omitida porque o ICLabel não rotulou componentes musculares a 128 Hz.",
+  "largura_cm": 16.0
+ }
+}
